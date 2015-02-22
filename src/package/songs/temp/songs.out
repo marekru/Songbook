@@ -1,0 +1,416 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Terms of Use}{}% 2
+\BOOKMARK [1][-]{section.3}{Sample Document}{}% 3
+\BOOKMARK [1][-]{section.4}{Initialization and Options}{}% 4
+\BOOKMARK [2][-]{envdef-lyric.2}{lyric}{section.4}% 5
+\BOOKMARK [2][-]{envdef-chorded.2}{chorded}{section.4}% 6
+\BOOKMARK [2][-]{envdef-slides.2}{slides}{section.4}% 7
+\BOOKMARK [2][-]{envdef-rawtext.2}{rawtext}{section.4}% 8
+\BOOKMARK [2][-]{macdef-chordson.2}{\134chordson}{section.4}% 9
+\BOOKMARK [2][-]{macdef-chordsoff.2}{\134chordsoff}{section.4}% 10
+\BOOKMARK [2][-]{macdef-slides.2}{\134slides}{section.4}% 11
+\BOOKMARK [2][-]{envdef-nomeasures.2}{nomeasures}{section.4}% 12
+\BOOKMARK [2][-]{envdef-showmeasures.2}{showmeasures}{section.4}% 13
+\BOOKMARK [2][-]{macdef-measureson.2}{\134measureson}{section.4}% 14
+\BOOKMARK [2][-]{macdef-measuresoff.2}{\134measuresoff}{section.4}% 15
+\BOOKMARK [2][-]{envdef-transposecapos.2}{transposecapos}{section.4}% 16
+\BOOKMARK [2][-]{envdef-noindexes.2}{noindexes}{section.4}% 17
+\BOOKMARK [2][-]{macdef-indexeson.2}{\134indexeson}{section.4}% 18
+\BOOKMARK [2][-]{macdef-indexesoff.2}{\134indexesoff}{section.4}% 19
+\BOOKMARK [2][-]{envdef-nopdfindex.2}{nopdfindex}{section.4}% 20
+\BOOKMARK [2][-]{envdef-noscripture.2}{noscripture}{section.4}% 21
+\BOOKMARK [2][-]{macdef-scriptureon.2}{\134scriptureon}{section.4}% 22
+\BOOKMARK [2][-]{macdef-scriptureoff.2}{\134scriptureoff}{section.4}% 23
+\BOOKMARK [2][-]{envdef-noshading.2}{noshading}{section.4}% 24
+\BOOKMARK [2][-]{macdef-includeonlysongs.2}{\134includeonlysongs}{section.4}% 25
+\BOOKMARK [1][-]{section.5}{Book Sections}{}% 26
+\BOOKMARK [2][-]{macdef-songsection.2}{\134songsection}{section.5}% 27
+\BOOKMARK [2][-]{macdef-songchapter.2}{\134songchapter}{section.5}% 28
+\BOOKMARK [2][-]{macdef-newindex.2}{\134newindex}{section.5}% 29
+\BOOKMARK [2][-]{macdef-newauthorindex.2}{\134newauthorindex}{section.5}% 30
+\BOOKMARK [2][-]{macdef-newscripindex.2}{\134newscripindex}{section.5}% 31
+\BOOKMARK [2][-]{macdef-showindex.2}{\134showindex}{section.5}% 32
+\BOOKMARK [1][-]{section.6}{Compiling}{}% 33
+\BOOKMARK [1][-]{section.7}{Songs}{}% 34
+\BOOKMARK [2][-]{subsection.7.1}{Beginning a Song}{section.7}% 35
+\BOOKMARK [3][-]{envdef-songs.3}{songs}{subsection.7.1}% 36
+\BOOKMARK [3][-]{macdef-beginsong.3}{\134beginsong}{subsection.7.1}% 37
+\BOOKMARK [3][-]{macdef-endsong.3}{\134endsong}{subsection.7.1}% 38
+\BOOKMARK [3][-]{envdef-by=.3}{by=}{subsection.7.1}% 39
+\BOOKMARK [3][-]{envdef-cr=.3}{cr=}{subsection.7.1}% 40
+\BOOKMARK [3][-]{envdef-li=.3}{li=}{subsection.7.1}% 41
+\BOOKMARK [3][-]{macdef-setlicense.3}{\134setlicense}{subsection.7.1}% 42
+\BOOKMARK [3][-]{envdef-sr=.3}{sr=}{subsection.7.1}% 43
+\BOOKMARK [2][-]{subsection.7.2}{Verses and Choruses}{section.7}% 44
+\BOOKMARK [3][-]{macdef-beginverse.3}{\134beginverse}{subsection.7.2}% 45
+\BOOKMARK [3][-]{macdef-endverse.3}{\134endverse}{subsection.7.2}% 46
+\BOOKMARK [3][-]{macdef-beginchorus.3}{\134beginchorus}{subsection.7.2}% 47
+\BOOKMARK [3][-]{macdef-endchorus.3}{\134endchorus}{subsection.7.2}% 48
+\BOOKMARK [3][-]{macdef-repchoruses.3}{\134repchoruses}{subsection.7.2}% 49
+\BOOKMARK [3][-]{macdef-norepchoruses.3}{\134norepchoruses}{subsection.7.2}% 50
+\BOOKMARK [2][-]{subsection.7.3}{Chords}{section.7}% 51
+\BOOKMARK [3][-]{macdef-[.3}{\134[}{subsection.7.3}% 52
+\BOOKMARK [3][-]{hashdef.3}{\43}{subsection.7.3}% 53
+\BOOKMARK [3][-]{ampdef.3}{\46}{subsection.7.3}% 54
+\BOOKMARK [3][-]{macdef-nolyrics.3}{\134nolyrics}{subsection.7.3}% 55
+\BOOKMARK [3][-]{macdef-DeclareLyricChar.3}{\134DeclareLyricChar}{subsection.7.3}% 56
+\BOOKMARK [3][-]{macdef-DeclareNonLyric.3}{\134DeclareNonLyric}{subsection.7.3}% 57
+\BOOKMARK [3][-]{macdef-DeclareNoHyphen.3}{\134DeclareNoHyphen}{subsection.7.3}% 58
+\BOOKMARK [3][-]{macdef-MultiwordChords.3}{\134MultiwordChords}{subsection.7.3}% 59
+\BOOKMARK [3][-]{macdef-shrp.3}{\134shrp}{subsection.7.3}% 60
+\BOOKMARK [3][-]{macdef-flt.3}{\134flt}{subsection.7.3}% 61
+\BOOKMARK [2][-]{subsection.7.4}{Replaying Chords}{section.7}% 62
+\BOOKMARK [3][-]{hatdef.3}{\136}{subsection.7.4}% 63
+\BOOKMARK [3][-]{macdef-memorize.3}{\134memorize}{subsection.7.4}% 64
+\BOOKMARK [3][-]{macdef-newchords.3}{\134newchords}{subsection.7.4}% 65
+\BOOKMARK [3][-]{macdef-replay.3}{\134replay}{subsection.7.4}% 66
+\BOOKMARK [2][-]{subsection.7.5}{Line and Column Breaks}{section.7}% 67
+\BOOKMARK [3][-]{macdef-brk.3}{\134brk}{subsection.7.5}% 68
+\BOOKMARK [3][-]{macdef-nextcol.3}{\134nextcol}{subsection.7.5}% 69
+\BOOKMARK [3][-]{macdef-sclearpage.3}{\134sclearpage}{subsection.7.5}% 70
+\BOOKMARK [3][-]{macdef-scleardpage.3}{\134scleardpage}{subsection.7.5}% 71
+\BOOKMARK [2][-]{subsection.7.6}{Echoes and Repeats}{section.7}% 72
+\BOOKMARK [3][-]{macdef-echo.3}{\134echo}{subsection.7.6}% 73
+\BOOKMARK [3][-]{macdef-rep.3}{\134rep}{subsection.7.6}% 74
+\BOOKMARK [3][-]{macdef-lrep.3}{\134lrep}{subsection.7.6}% 75
+\BOOKMARK [3][-]{macdef-rrep.3}{\134rrep}{subsection.7.6}% 76
+\BOOKMARK [2][-]{subsection.7.7}{Measure Bars}{section.7}% 77
+\BOOKMARK [3][-]{macdef-measurebar.3}{\134measurebar}{subsection.7.7}% 78
+\BOOKMARK [3][-]{pipedef.3}{\174}{subsection.7.7}% 79
+\BOOKMARK [3][-]{macdef-meter.3}{\134meter}{subsection.7.7}% 80
+\BOOKMARK [3][-]{macdef-mbar.3}{\134mbar}{subsection.7.7}% 81
+\BOOKMARK [2][-]{subsection.7.8}{Textual Notes}{section.7}% 82
+\BOOKMARK [3][-]{macdef-textnote.3}{\134textnote}{subsection.7.8}% 83
+\BOOKMARK [3][-]{macdef-musicnote.3}{\134musicnote}{subsection.7.8}% 84
+\BOOKMARK [3][-]{macdef-capo.3}{\134capo}{subsection.7.8}% 85
+\BOOKMARK [2][-]{subsection.7.9}{Index Entries}{section.7}% 86
+\BOOKMARK [3][-]{envdef-index=.3}{index=}{subsection.7.9}% 87
+\BOOKMARK [3][-]{envdef-ititle=.3}{ititle=}{subsection.7.9}% 88
+\BOOKMARK [3][-]{macdef-indexentry.3}{\134indexentry}{subsection.7.9}% 89
+\BOOKMARK [3][-]{macdef-indextitleentry.3}{\134indextitleentry}{subsection.7.9}% 90
+\BOOKMARK [2][-]{subsection.7.10}{Chords in Ligatures}{section.7}% 91
+\BOOKMARK [3][-]{macdef-ch.3}{\134ch}{subsection.7.10}% 92
+\BOOKMARK [3][-]{macdef-mch.3}{\134mch}{subsection.7.10}% 93
+\BOOKMARK [1][-]{section.8}{Between Songs}{}% 94
+\BOOKMARK [2][-]{subsection.8.1}{Intersong Displays}{section.8}% 95
+\BOOKMARK [3][-]{envdef-intersong.3}{intersong}{subsection.8.1}% 96
+\BOOKMARK [3][-]{envdef-intersong*.3}{intersong*}{subsection.8.1}% 97
+\BOOKMARK [3][-]{envdef-songgroup.3}{songgroup}{subsection.8.1}% 98
+\BOOKMARK [2][-]{subsection.8.2}{Scripture Quotations}{section.8}% 99
+\BOOKMARK [3][-]{macdef-beginscripture.3}{\134beginscripture}{subsection.8.2}% 100
+\BOOKMARK [3][-]{macdef-endscripture.3}{\134endscripture}{subsection.8.2}% 101
+\BOOKMARK [3][-]{macdef-Acolon.3}{\134Acolon}{subsection.8.2}% 102
+\BOOKMARK [3][-]{macdef-Bcolon.3}{\134Bcolon}{subsection.8.2}% 103
+\BOOKMARK [3][-]{macdef-strophe.3}{\134strophe}{subsection.8.2}% 104
+\BOOKMARK [3][-]{macdef-scripindent.3}{\134scripindent}{subsection.8.2}% 105
+\BOOKMARK [3][-]{macdef-scripoutdent.3}{\134scripoutdent}{subsection.8.2}% 106
+\BOOKMARK [1][-]{section.9}{Guitar Tablatures}{}% 107
+\BOOKMARK [2][-]{macdef-gtab.2}{\134gtab}{section.9}% 108
+\BOOKMARK [2][-]{macdef-minfrets.2}{\134minfrets}{section.9}% 109
+\BOOKMARK [1][-]{section.10}{Automatic Transposition}{}% 110
+\BOOKMARK [2][-]{macdef-transpose.2}{\134transpose}{section.10}% 111
+\BOOKMARK [2][-]{macdef-preferflats.2}{\134preferflats}{section.10}% 112
+\BOOKMARK [2][-]{macdef-prefersharps.2}{\134prefersharps}{section.10}% 113
+\BOOKMARK [2][-]{macdef-trchordformat.2}{\134trchordformat}{section.10}% 114
+\BOOKMARK [2][-]{macdef-solfedge.2}{\134solfedge}{section.10}% 115
+\BOOKMARK [2][-]{macdef-alphascale.2}{\134alphascale}{section.10}% 116
+\BOOKMARK [2][-]{macdef-notenames.2}{\134notenames}{section.10}% 117
+\BOOKMARK [2][-]{macdef-notenamesin.2}{\134notenamesin}{section.10}% 118
+\BOOKMARK [2][-]{macdef-notenamesout.2}{\134notenamesout}{section.10}% 119
+\BOOKMARK [2][-]{macdef-transposehere.2}{\134transposehere}{section.10}% 120
+\BOOKMARK [2][-]{macdef-notrans.2}{\134notrans}{section.10}% 121
+\BOOKMARK [2][-]{macdef-gtabtrans.2}{\134gtabtrans}{section.10}% 122
+\BOOKMARK [1][-]{section.11}{Customizing the Book}{}% 123
+\BOOKMARK [2][-]{subsection.11.1}{Song and Verse Numbering}{section.11}% 124
+\BOOKMARK [3][-]{envdef-songnum.3}{songnum}{subsection.11.1}% 125
+\BOOKMARK [3][-]{macdef-thesongnum.3}{\134thesongnum}{subsection.11.1}% 126
+\BOOKMARK [3][-]{macdef-printsongnum.3}{\134printsongnum}{subsection.11.1}% 127
+\BOOKMARK [3][-]{macdef-songnumwidth.3}{\134songnumwidth}{subsection.11.1}% 128
+\BOOKMARK [3][-]{macdef-nosongnumbers.3}{\134nosongnumbers}{subsection.11.1}% 129
+\BOOKMARK [3][-]{envdef-versenum.3}{versenum}{subsection.11.1}% 130
+\BOOKMARK [3][-]{macdef-theversenum.3}{\134theversenum}{subsection.11.1}% 131
+\BOOKMARK [3][-]{macdef-printversenum.3}{\134printversenum}{subsection.11.1}% 132
+\BOOKMARK [3][-]{macdef-versenumwidth.3}{\134versenumwidth}{subsection.11.1}% 133
+\BOOKMARK [3][-]{macdef-noversenumbers.3}{\134noversenumbers}{subsection.11.1}% 134
+\BOOKMARK [3][-]{macdef-placeversenum.3}{\134placeversenum}{subsection.11.1}% 135
+\BOOKMARK [2][-]{subsection.11.2}{Song Appearance}{section.11}% 136
+\BOOKMARK [3][-]{macdef-lyricfont.3}{\134lyricfont}{subsection.11.2}% 137
+\BOOKMARK [3][-]{macdef-stitlefont.3}{\134stitlefont}{subsection.11.2}% 138
+\BOOKMARK [3][-]{macdef-versefont.3}{\134versefont}{subsection.11.2}% 139
+\BOOKMARK [3][-]{macdef-chorusfont.3}{\134chorusfont}{subsection.11.2}% 140
+\BOOKMARK [3][-]{macdef-notefont.3}{\134notefont}{subsection.11.2}% 141
+\BOOKMARK [3][-]{macdef-notebgcolor.3}{\134notebgcolor}{subsection.11.2}% 142
+\BOOKMARK [3][-]{macdef-snumbgcolor.3}{\134snumbgcolor}{subsection.11.2}% 143
+\BOOKMARK [3][-]{macdef-printchord.3}{\134printchord}{subsection.11.2}% 144
+\BOOKMARK [3][-]{macdef-sharpsymbol.3}{\134sharpsymbol}{subsection.11.2}% 145
+\BOOKMARK [3][-]{macdef-flatsymbol.3}{\134flatsymbol}{subsection.11.2}% 146
+\BOOKMARK [3][-]{macdef-everyverse.3}{\134everyverse}{subsection.11.2}% 147
+\BOOKMARK [3][-]{macdef-everychorus.3}{\134everychorus}{subsection.11.2}% 148
+\BOOKMARK [3][-]{macdef-versesep.3}{\134versesep}{subsection.11.2}% 149
+\BOOKMARK [3][-]{macdef-afterpreludeskip.3}{\134afterpreludeskip}{subsection.11.2}% 150
+\BOOKMARK [3][-]{macdef-beforepostludeskip.3}{\134beforepostludeskip}{subsection.11.2}% 151
+\BOOKMARK [3][-]{macdef-baselineadj.3}{\134baselineadj}{subsection.11.2}% 152
+\BOOKMARK [3][-]{macdef-clineparams.3}{\134clineparams}{subsection.11.2}% 153
+\BOOKMARK [3][-]{macdef-cbarwidth.3}{\134cbarwidth}{subsection.11.2}% 154
+\BOOKMARK [3][-]{macdef-sbarheight.3}{\134sbarheight}{subsection.11.2}% 155
+\BOOKMARK [3][-]{macdef-extendprelude.3}{\134extendprelude}{subsection.11.2}% 156
+\BOOKMARK [3][-]{macdef-showauthors.3}{\134showauthors}{subsection.11.2}% 157
+\BOOKMARK [3][-]{macdef-showrefs.3}{\134showrefs}{subsection.11.2}% 158
+\BOOKMARK [3][-]{macdef-extendpostlude.3}{\134extendpostlude}{subsection.11.2}% 159
+\BOOKMARK [3][-]{macdef-makeprelude.3}{\134makeprelude}{subsection.11.2}% 160
+\BOOKMARK [3][-]{macdef-makepostlude.3}{\134makepostlude}{subsection.11.2}% 161
+\BOOKMARK [3][-]{macdef-vvpenalty.3}{\134vvpenalty}{subsection.11.2}% 162
+\BOOKMARK [3][-]{macdef-ccpenalty.3}{\134ccpenalty}{subsection.11.2}% 163
+\BOOKMARK [3][-]{macdef-vcpenalty.3}{\134vcpenalty}{subsection.11.2}% 164
+\BOOKMARK [3][-]{macdef-cvpenalty.3}{\134cvpenalty}{subsection.11.2}% 165
+\BOOKMARK [3][-]{macdef-brkpenalty.3}{\134brkpenalty}{subsection.11.2}% 166
+\BOOKMARK [3][-]{macdef-sepverses.3}{\134sepverses}{subsection.11.2}% 167
+\BOOKMARK [3][-]{macdef-versejustify.3}{\134versejustify}{subsection.11.2}% 168
+\BOOKMARK [3][-]{macdef-chorusjustify.3}{\134chorusjustify}{subsection.11.2}% 169
+\BOOKMARK [3][-]{macdef-justifyleft.3}{\134justifyleft}{subsection.11.2}% 170
+\BOOKMARK [3][-]{macdef-justifycenter.3}{\134justifycenter}{subsection.11.2}% 171
+\BOOKMARK [3][-]{macdef-notejustify.3}{\134notejustify}{subsection.11.2}% 172
+\BOOKMARK [3][-]{macdef-placenote.3}{\134placenote}{subsection.11.2}% 173
+\BOOKMARK [2][-]{subsection.11.3}{Scripture Appearance}{section.11}% 174
+\BOOKMARK [3][-]{macdef-scripturefont.3}{\134scripturefont}{subsection.11.3}% 175
+\BOOKMARK [3][-]{macdef-printscrcite.3}{\134printscrcite}{subsection.11.3}% 176
+\BOOKMARK [2][-]{subsection.11.4}{Conditional Blocks}{section.11}% 177
+\BOOKMARK [3][-]{macdef-if.3}{\134if...}{subsection.11.4}% 178
+\BOOKMARK [2][-]{subsection.11.5}{Page Layout}{section.11}% 179
+\BOOKMARK [3][-]{macdef-songcolumns.3}{\134songcolumns}{subsection.11.5}% 180
+\BOOKMARK [3][-]{macdef-pagepreludes.3}{\134pagepreludes}{subsection.11.5}% 181
+\BOOKMARK [3][-]{macdef-columnsep.3}{\134columnsep}{subsection.11.5}% 182
+\BOOKMARK [3][-]{macdef-colbotglue.3}{\134colbotglue}{subsection.11.5}% 183
+\BOOKMARK [3][-]{macdef-lastcolglue.3}{\134lastcolglue}{subsection.11.5}% 184
+\BOOKMARK [3][-]{macdef-songpos.3}{\134songpos}{subsection.11.5}% 185
+\BOOKMARK [3][-]{macdef-spenalty.3}{\134spenalty}{subsection.11.5}% 186
+\BOOKMARK [2][-]{subsection.11.6}{Indexes}{section.11}% 187
+\BOOKMARK [3][-]{macdef-indexsongsas.3}{\134indexsongsas}{subsection.11.6}% 188
+\BOOKMARK [3][-]{macdef-sepindexestrue.3}{\134sepindexestrue}{subsection.11.6}% 189
+\BOOKMARK [3][-]{macdef-sepindexesfalse.3}{\134sepindexesfalse}{subsection.11.6}% 190
+\BOOKMARK [3][-]{macdef-idxrefsfont.3}{\134idxrefsfont}{subsection.11.6}% 191
+\BOOKMARK [3][-]{macdef-idxtitlefont.3}{\134idxtitlefont}{subsection.11.6}% 192
+\BOOKMARK [3][-]{macdef-idxlyricfont.3}{\134idxlyricfont}{subsection.11.6}% 193
+\BOOKMARK [3][-]{macdef-idxheadfont.3}{\134idxheadfont}{subsection.11.6}% 194
+\BOOKMARK [3][-]{macdef-idxbgcolor.3}{\134idxbgcolor}{subsection.11.6}% 195
+\BOOKMARK [3][-]{macdef-idxheadwidth.3}{\134idxheadwidth}{subsection.11.6}% 196
+\BOOKMARK [3][-]{macdef-idxauthfont.3}{\134idxauthfont}{subsection.11.6}% 197
+\BOOKMARK [3][-]{macdef-idxscripfont.3}{\134idxscripfont}{subsection.11.6}% 198
+\BOOKMARK [3][-]{macdef-idxbook.3}{\134idxbook}{subsection.11.6}% 199
+\BOOKMARK [3][-]{macdef-idxcont.3}{\134idxcont}{subsection.11.6}% 200
+\BOOKMARK [3][-]{macdef-songtarget.3}{\134songtarget}{subsection.11.6}% 201
+\BOOKMARK [3][-]{macdef-songlink.3}{\134songlink}{subsection.11.6}% 202
+\BOOKMARK [3][-]{macdef-titleprefixword.3}{\134titleprefixword}{subsection.11.6}% 203
+\BOOKMARK [3][-]{macdef-authsepword.3}{\134authsepword}{subsection.11.6}% 204
+\BOOKMARK [3][-]{macdef-authbyword.3}{\134authbyword}{subsection.11.6}% 205
+\BOOKMARK [3][-]{macdef-authignoreword.3}{\134authignoreword}{subsection.11.6}% 206
+\BOOKMARK [2][-]{subsection.11.7}{Page Headers and Footers}{section.11}% 207
+\BOOKMARK [3][-]{macdef-songmark.3}{\134songmark}{subsection.11.7}% 208
+\BOOKMARK [3][-]{macdef-versemark.3}{\134versemark}{subsection.11.7}% 209
+\BOOKMARK [3][-]{macdef-chorusmark.3}{\134chorusmark}{subsection.11.7}% 210
+\BOOKMARK [2][-]{subsection.11.8}{Defining New Beginsong Keyvals}{section.11}% 211
+\BOOKMARK [3][-]{macdef-newsongkey.3}{\134newsongkey}{subsection.11.8}% 212
+\BOOKMARK [2][-]{subsection.11.9}{Font Kerning Corrections}{section.11}% 213
+\BOOKMARK [3][-]{macdef-chordlocals.3}{\134chordlocals}{subsection.11.9}% 214
+\BOOKMARK [3][-]{macdef-shiftdblquotes.3}{\134shiftdblquotes}{subsection.11.9}% 215
+\BOOKMARK [1][-]{section.12}{Informational Macros}{}% 216
+\BOOKMARK [2][-]{macdef-songauthors.2}{\134songauthors}{section.12}% 217
+\BOOKMARK [2][-]{macdef-songrefs.2}{\134songrefs}{section.12}% 218
+\BOOKMARK [2][-]{macdef-songcopyright.2}{\134songcopyright}{section.12}% 219
+\BOOKMARK [2][-]{macdef-songlicense.2}{\134songlicense}{section.12}% 220
+\BOOKMARK [2][-]{macdef-songtitle.2}{\134songtitle}{section.12}% 221
+\BOOKMARK [2][-]{macdef-resettitles.2}{\134resettitles}{section.12}% 222
+\BOOKMARK [2][-]{macdef-nexttitle.2}{\134nexttitle}{section.12}% 223
+\BOOKMARK [2][-]{macdef-foreachtitle.2}{\134foreachtitle}{section.12}% 224
+\BOOKMARK [2][-]{macdef-songlist.2}{\134songlist}{section.12}% 225
+\BOOKMARK [1][-]{section.13}{Index Generation}{}% 226
+\BOOKMARK [2][-]{envdef-idxblock.2}{idxblock}{section.13}% 227
+\BOOKMARK [2][-]{macdef-idxentry.2}{\134idxentry}{section.13}% 228
+\BOOKMARK [2][-]{macdef-idxaltentry.2}{\134idxaltentry}{section.13}% 229
+\BOOKMARK [1][-]{section.14}{Other Resources}{}% 230
+\BOOKMARK [1][-]{section.15}{GNU General Public License}{}% 231
+\BOOKMARK [1][-]{section.16}{Implementation}{}% 232
+\BOOKMARK [2][-]{subsection.16.1}{Initialization}{section.16}% 233
+\BOOKMARK [2][-]{subsection.16.2}{Default Parameters}{section.16}% 234
+\BOOKMARK [3][-]{mimpl-lyricfont.3}{\134lyricfont}{subsection.16.2}% 235
+\BOOKMARK [3][-]{mimpl-stitlefont.3}{\134stitlefont}{subsection.16.2}% 236
+\BOOKMARK [3][-]{mimpl-versefont.3}{\134versefont}{subsection.16.2}% 237
+\BOOKMARK [3][-]{mimpl-chorusfont.3}{\134chorusfont}{subsection.16.2}% 238
+\BOOKMARK [3][-]{mimpl-notefont.3}{\134notefont}{subsection.16.2}% 239
+\BOOKMARK [3][-]{mimpl-scripturefont.3}{\134scripturefont}{subsection.16.2}% 240
+\BOOKMARK [3][-]{mimpl-printscrcite.3}{\134printscrcite}{subsection.16.2}% 241
+\BOOKMARK [3][-]{mimpl-snumbgcolor.3}{\134snumbgcolor}{subsection.16.2}% 242
+\BOOKMARK [3][-]{mimpl-notebgcolor.3}{\134notebgcolor}{subsection.16.2}% 243
+\BOOKMARK [3][-]{mimpl-idxbgcolor.3}{\134idxbgcolor}{subsection.16.2}% 244
+\BOOKMARK [3][-]{mimpl-versejustify.3}{\134versejustify}{subsection.16.2}% 245
+\BOOKMARK [3][-]{mimpl-chorusjustify.3}{\134chorusjustify}{subsection.16.2}% 246
+\BOOKMARK [3][-]{mimpl-notejustify.3}{\134notejustify}{subsection.16.2}% 247
+\BOOKMARK [3][-]{mimpl-placenote.3}{\134placenote}{subsection.16.2}% 248
+\BOOKMARK [3][-]{mimpl-thesongnum.3}{\134thesongnum}{subsection.16.2}% 249
+\BOOKMARK [3][-]{mimpl-theversenum.3}{\134theversenum}{subsection.16.2}% 250
+\BOOKMARK [3][-]{mimpl-printsongnum.3}{\134printsongnum}{subsection.16.2}% 251
+\BOOKMARK [3][-]{mimpl-printversenum.3}{\134printversenum}{subsection.16.2}% 252
+\BOOKMARK [3][-]{mimpl-placeversenum.3}{\134placeversenum}{subsection.16.2}% 253
+\BOOKMARK [3][-]{mimpl-everyverse.3}{\134everyverse}{subsection.16.2}% 254
+\BOOKMARK [3][-]{mimpl-everychorus.3}{\134everychorus}{subsection.16.2}% 255
+\BOOKMARK [3][-]{mimpl-printchord.3}{\134printchord}{subsection.16.2}% 256
+\BOOKMARK [3][-]{mimpl-chordlocals.3}{\134chordlocals}{subsection.16.2}% 257
+\BOOKMARK [3][-]{mimpl-versesep.3}{\134versesep}{subsection.16.2}% 258
+\BOOKMARK [3][-]{mimpl-afterpreludeskip.3}{\134afterpreludeskip}{subsection.16.2}% 259
+\BOOKMARK [3][-]{mimpl-beforepostludeskip.3}{\134beforepostludeskip}{subsection.16.2}% 260
+\BOOKMARK [3][-]{mimpl-baselineadj.3}{\134baselineadj}{subsection.16.2}% 261
+\BOOKMARK [3][-]{mimpl-clineparams.3}{\134clineparams}{subsection.16.2}% 262
+\BOOKMARK [3][-]{mimpl-idxheadwidth.3}{\134idxheadwidth}{subsection.16.2}% 263
+\BOOKMARK [3][-]{mimpl-songnumwidth.3}{\134songnumwidth}{subsection.16.2}% 264
+\BOOKMARK [3][-]{mimpl-versenumwidth.3}{\134versenumwidth}{subsection.16.2}% 265
+\BOOKMARK [3][-]{mimpl-vvpenalty.3}{\134vvpenalty}{subsection.16.2}% 266
+\BOOKMARK [3][-]{mimpl-ccpenalty.3}{\134ccpenalty}{subsection.16.2}% 267
+\BOOKMARK [3][-]{mimpl-vcpenalty.3}{\134vcpenalty}{subsection.16.2}% 268
+\BOOKMARK [3][-]{mimpl-cvpenalty.3}{\134cvpenalty}{subsection.16.2}% 269
+\BOOKMARK [3][-]{mimpl-brkpenalty.3}{\134brkpenalty}{subsection.16.2}% 270
+\BOOKMARK [3][-]{mimpl-spenalty.3}{\134spenalty}{subsection.16.2}% 271
+\BOOKMARK [3][-]{mimpl-songmark.3}{\134songmark}{subsection.16.2}% 272
+\BOOKMARK [3][-]{mimpl-versemark.3}{\134versemark}{subsection.16.2}% 273
+\BOOKMARK [3][-]{mimpl-chorusmark.3}{\134chorusmark}{subsection.16.2}% 274
+\BOOKMARK [3][-]{mimpl-extendprelude.3}{\134extendprelude}{subsection.16.2}% 275
+\BOOKMARK [3][-]{mimpl-extendpostlude.3}{\134extendpostlude}{subsection.16.2}% 276
+\BOOKMARK [3][-]{mimpl-idxheadfont.3}{\134idxheadfont}{subsection.16.2}% 277
+\BOOKMARK [3][-]{mimpl-idxtitlefont.3}{\134idxtitlefont}{subsection.16.2}% 278
+\BOOKMARK [3][-]{mimpl-idxlyricfont.3}{\134idxlyricfont}{subsection.16.2}% 279
+\BOOKMARK [3][-]{mimpl-idxscripfont.3}{\134idxscripfont}{subsection.16.2}% 280
+\BOOKMARK [3][-]{mimpl-idxauthfont.3}{\134idxauthfont}{subsection.16.2}% 281
+\BOOKMARK [3][-]{mimpl-idxrefsfont.3}{\134idxrefsfont}{subsection.16.2}% 282
+\BOOKMARK [3][-]{mimpl-idxbook.3}{\134idxbook}{subsection.16.2}% 283
+\BOOKMARK [3][-]{mimpl-idxcont.3}{\134idxcont}{subsection.16.2}% 284
+\BOOKMARK [2][-]{subsection.16.3}{Package Options}{section.16}% 285
+\BOOKMARK [3][-]{eimpl-slides.3}{slides}{subsection.16.3}% 286
+\BOOKMARK [3][-]{mimpl-slides.3}{\134slides}{subsection.16.3}% 287
+\BOOKMARK [3][-]{eimpl-unouter.3}{unouter}{subsection.16.3}% 288
+\BOOKMARK [3][-]{eimpl-rawtext.3}{rawtext}{subsection.16.3}% 289
+\BOOKMARK [3][-]{eimpl-noshading.3}{noshading}{subsection.16.3}% 290
+\BOOKMARK [3][-]{eimpl-noindexes.3}{noindexes}{subsection.16.3}% 291
+\BOOKMARK [3][-]{mimpl-indexeson.3}{\134indexeson}{subsection.16.3}% 292
+\BOOKMARK [3][-]{mimpl-indexesoff.3}{\134indexesoff}{subsection.16.3}% 293
+\BOOKMARK [3][-]{eimpl-nopdfindex.3}{nopdfindex}{subsection.16.3}% 294
+\BOOKMARK [3][-]{eimpl-chorded.3}{chorded}{subsection.16.3}% 295
+\BOOKMARK [3][-]{eimpl-lyric.3}{lyric}{subsection.16.3}% 296
+\BOOKMARK [3][-]{mimpl-chordson.3}{\134chordson}{subsection.16.3}% 297
+\BOOKMARK [3][-]{mimpl-chordsoff.3}{\134chordsoff}{subsection.16.3}% 298
+\BOOKMARK [3][-]{eimpl-showmeasures.3}{showmeasures}{subsection.16.3}% 299
+\BOOKMARK [3][-]{eimpl-nomeasures.3}{nomeasures}{subsection.16.3}% 300
+\BOOKMARK [3][-]{mimpl-measureson.3}{\134measureson}{subsection.16.3}% 301
+\BOOKMARK [3][-]{mimpl-measuresoff.3}{\134measuresoff}{subsection.16.3}% 302
+\BOOKMARK [3][-]{eimpl-transposecapos.3}{transposecapos}{subsection.16.3}% 303
+\BOOKMARK [3][-]{eimpl-noscripture.3}{noscripture}{subsection.16.3}% 304
+\BOOKMARK [3][-]{mimpl-scriptureon.3}{\134scriptureon}{subsection.16.3}% 305
+\BOOKMARK [3][-]{mimpl-scriptureoff.3}{\134scriptureoff}{subsection.16.3}% 306
+\BOOKMARK [3][-]{eimpl-onesongcolumn.3}{onesongcolumn}{subsection.16.3}% 307
+\BOOKMARK [3][-]{eimpl-twosongcolumns.3}{twosongcolumns}{subsection.16.3}% 308
+\BOOKMARK [3][-]{mimpl-onesongcolumn.3}{\134onesongcolumn}{subsection.16.3}% 309
+\BOOKMARK [3][-]{mimpl-twosongcolumns.3}{\134twosongcolumns}{subsection.16.3}% 310
+\BOOKMARK [3][-]{mimpl-songcolumns.3}{\134songcolumns}{subsection.16.3}% 311
+\BOOKMARK [3][-]{mimpl-includeonlysongs.3}{\134includeonlysongs}{subsection.16.3}% 312
+\BOOKMARK [3][-]{mimpl-nosongnumbers.3}{\134nosongnumbers}{subsection.16.3}% 313
+\BOOKMARK [3][-]{mimpl-noversenumbers.3}{\134noversenumbers}{subsection.16.3}% 314
+\BOOKMARK [3][-]{mimpl-repchoruses.3}{\134repchoruses}{subsection.16.3}% 315
+\BOOKMARK [3][-]{mimpl-norepchoruses.3}{\134norepchoruses}{subsection.16.3}% 316
+\BOOKMARK [2][-]{subsection.16.4}{Page-builder}{section.16}% 317
+\BOOKMARK [3][-]{mimpl-commitsongs.3}{\134commitsongs}{subsection.16.4}% 318
+\BOOKMARK [3][-]{mimpl-nextcol.3}{\134nextcol}{subsection.16.4}% 319
+\BOOKMARK [3][-]{mimpl-sclearpage.3}{\134sclearpage}{subsection.16.4}% 320
+\BOOKMARK [3][-]{mimpl-scleardpage.3}{\134scleardpage}{subsection.16.4}% 321
+\BOOKMARK [2][-]{subsection.16.5}{Songs}{section.16}% 322
+\BOOKMARK [3][-]{mimpl-resettitles.3}{\134resettitles}{subsection.16.5}% 323
+\BOOKMARK [3][-]{mimpl-nexttitle.3}{\134nexttitle}{subsection.16.5}% 324
+\BOOKMARK [3][-]{mimpl-foreachtitle.3}{\134foreachtitle}{subsection.16.5}% 325
+\BOOKMARK [3][-]{mimpl-songauthors.3}{\134songauthors}{subsection.16.5}% 326
+\BOOKMARK [3][-]{mimpl-songcopyright.3}{\134songcopyright}{subsection.16.5}% 327
+\BOOKMARK [3][-]{mimpl-songlicense.3}{\134songlicense}{subsection.16.5}% 328
+\BOOKMARK [3][-]{mimpl-songrefs.3}{\134songrefs}{subsection.16.5}% 329
+\BOOKMARK [3][-]{mimpl-setlicense.3}{\134setlicense}{subsection.16.5}% 330
+\BOOKMARK [3][-]{mimpl-newsongkey.3}{\134newsongkey}{subsection.16.5}% 331
+\BOOKMARK [3][-]{eimpl-song.3}{song}{subsection.16.5}% 332
+\BOOKMARK [3][-]{mimpl-makeprelude.3}{\134makeprelude}{subsection.16.5}% 333
+\BOOKMARK [3][-]{mimpl-makepostlude.3}{\134makepostlude}{subsection.16.5}% 334
+\BOOKMARK [3][-]{mimpl-showauthors.3}{\134showauthors}{subsection.16.5}% 335
+\BOOKMARK [3][-]{mimpl-showrefs.3}{\134showrefs}{subsection.16.5}% 336
+\BOOKMARK [2][-]{subsection.16.6}{Verses and Choruses}{section.16}% 337
+\BOOKMARK [3][-]{eimpl-verse.3}{verse}{subsection.16.6}% 338
+\BOOKMARK [3][-]{eimpl-chorus.3}{chorus}{subsection.16.6}% 339
+\BOOKMARK [3][-]{mimpl-brk.3}{\134brk}{subsection.16.6}% 340
+\BOOKMARK [3][-]{mimpl-textnote.3}{\134textnote}{subsection.16.6}% 341
+\BOOKMARK [3][-]{mimpl-musicnote.3}{\134musicnote}{subsection.16.6}% 342
+\BOOKMARK [3][-]{mimpl-echo.3}{\134echo}{subsection.16.6}% 343
+\BOOKMARK [3][-]{mimpl-rep.3}{\134rep}{subsection.16.6}% 344
+\BOOKMARK [2][-]{subsection.16.7}{Scripture Quotations}{section.16}% 345
+\BOOKMARK [3][-]{eimpl-songgroup.3}{songgroup}{subsection.16.7}% 346
+\BOOKMARK [3][-]{eimpl-intersong.3}{intersong}{subsection.16.7}% 347
+\BOOKMARK [3][-]{eimpl-scripture.3}{scripture}{subsection.16.7}% 348
+\BOOKMARK [3][-]{mimpl-scitehere.3}{\134scitehere}{subsection.16.7}% 349
+\BOOKMARK [3][-]{mimpl-Acolon.3}{\134Acolon}{subsection.16.7}% 350
+\BOOKMARK [3][-]{mimpl-Bcolon.3}{\134Bcolon}{subsection.16.7}% 351
+\BOOKMARK [3][-]{mimpl-strophe.3}{\134strophe}{subsection.16.7}% 352
+\BOOKMARK [3][-]{mimpl-scripindent.3}{\134scripindent}{subsection.16.7}% 353
+\BOOKMARK [3][-]{mimpl-scripoutdent.3}{\134scripoutdent}{subsection.16.7}% 354
+\BOOKMARK [3][-]{mimpl-shiftdblquotes.3}{\134shiftdblquotes}{subsection.16.7}% 355
+\BOOKMARK [2][-]{subsection.16.8}{Transposition}{section.16}% 356
+\BOOKMARK [3][-]{mimpl-notenamesin.3}{\134notenamesin}{subsection.16.8}% 357
+\BOOKMARK [3][-]{mimpl-notenamesout.3}{\134notenamesout}{subsection.16.8}% 358
+\BOOKMARK [3][-]{mimpl-notenames.3}{\134notenames}{subsection.16.8}% 359
+\BOOKMARK [3][-]{mimpl-alphascale.3}{\134alphascale}{subsection.16.8}% 360
+\BOOKMARK [3][-]{mimpl-solfedge.3}{\134solfedge}{subsection.16.8}% 361
+\BOOKMARK [3][-]{mimpl-transpose.3}{\134transpose}{subsection.16.8}% 362
+\BOOKMARK [3][-]{mimpl-capo.3}{\134capo}{subsection.16.8}% 363
+\BOOKMARK [3][-]{mimpl-prefersharps.3}{\134prefersharps}{subsection.16.8}% 364
+\BOOKMARK [3][-]{mimpl-preferflats.3}{\134preferflats}{subsection.16.8}% 365
+\BOOKMARK [3][-]{mimpl-transposehere.3}{\134transposehere}{subsection.16.8}% 366
+\BOOKMARK [3][-]{mimpl-notrans.3}{\134notrans}{subsection.16.8}% 367
+\BOOKMARK [3][-]{mimpl-trchordformat.3}{\134trchordformat}{subsection.16.8}% 368
+\BOOKMARK [2][-]{subsection.16.9}{Measure Bars}{section.16}% 369
+\BOOKMARK [3][-]{mimpl-meter.3}{\134meter}{subsection.16.9}% 370
+\BOOKMARK [3][-]{mimpl-mbar.3}{\134mbar}{subsection.16.9}% 371
+\BOOKMARK [3][-]{mimpl-measurebar.3}{\134measurebar}{subsection.16.9}% 372
+\BOOKMARK [3][-]{mimpl-lrep.3}{\134lrep}{subsection.16.9}% 373
+\BOOKMARK [3][-]{mimpl-rrep.3}{\134rrep}{subsection.16.9}% 374
+\BOOKMARK [2][-]{subsection.16.10}{Lyric Scanning}{section.16}% 375
+\BOOKMARK [3][-]{mimpl-DeclareLyricChar.3}{\134DeclareLyricChar}{subsection.16.10}% 376
+\BOOKMARK [3][-]{mimpl-DeclareNonLyric.3}{\134DeclareNonLyric}{subsection.16.10}% 377
+\BOOKMARK [3][-]{mimpl-DeclareNoHyphen.3}{\134DeclareNoHyphen}{subsection.16.10}% 378
+\BOOKMARK [3][-]{mimpl-MultiwordChords.3}{\134MultiwordChords}{subsection.16.10}% 379
+\BOOKMARK [2][-]{subsection.16.11}{Chords}{section.16}% 380
+\BOOKMARK [3][-]{mimpl-[.3}{\134[}{subsection.16.11}% 381
+\BOOKMARK [3][-]{mimpl-sharpsymbol.3}{\134sharpsymbol}{subsection.16.11}% 382
+\BOOKMARK [3][-]{mimpl-flatsymbol.3}{\134flatsymbol}{subsection.16.11}% 383
+\BOOKMARK [3][-]{mimpl-shrp.3}{\134shrp}{subsection.16.11}% 384
+\BOOKMARK [3][-]{mimpl-flt.3}{\134flt}{subsection.16.11}% 385
+\BOOKMARK [3][-]{mimpl-ch.3}{\134ch}{subsection.16.11}% 386
+\BOOKMARK [3][-]{mimpl-mch.3}{\134mch}{subsection.16.11}% 387
+\BOOKMARK [2][-]{subsection.16.12}{Chord Replaying}{section.16}% 388
+\BOOKMARK [3][-]{mimpl-newchords.3}{\134newchords}{subsection.16.12}% 389
+\BOOKMARK [3][-]{mimpl-memorize.3}{\134memorize}{subsection.16.12}% 390
+\BOOKMARK [3][-]{mimpl-replay.3}{\134replay}{subsection.16.12}% 391
+\BOOKMARK [2][-]{subsection.16.13}{Guitar Tablatures}{section.16}% 392
+\BOOKMARK [3][-]{mimpl-gtabtrans.3}{\134gtabtrans}{subsection.16.13}% 393
+\BOOKMARK [3][-]{mimpl-gtab.3}{\134gtab}{subsection.16.13}% 394
+\BOOKMARK [2][-]{subsection.16.14}{Book Sectioning}{section.16}% 395
+\BOOKMARK [3][-]{mimpl-songchapter.3}{\134songchapter}{subsection.16.14}% 396
+\BOOKMARK [3][-]{mimpl-songsection.3}{\134songsection}{subsection.16.14}% 397
+\BOOKMARK [3][-]{eimpl-songs.3}{songs}{subsection.16.14}% 398
+\BOOKMARK [2][-]{subsection.16.15}{Index Generation}{section.16}% 399
+\BOOKMARK [3][-]{mimpl-songtarget.3}{\134songtarget}{subsection.16.15}% 400
+\BOOKMARK [3][-]{mimpl-songlink.3}{\134songlink}{subsection.16.15}% 401
+\BOOKMARK [3][-]{mimpl-newindex.3}{\134newindex}{subsection.16.15}% 402
+\BOOKMARK [3][-]{mimpl-newscripindex.3}{\134newscripindex}{subsection.16.15}% 403
+\BOOKMARK [3][-]{mimpl-newauthorindex.3}{\134newauthorindex}{subsection.16.15}% 404
+\BOOKMARK [3][-]{mimpl-indexentry.3}{\134indexentry}{subsection.16.15}% 405
+\BOOKMARK [3][-]{mimpl-indextitleentry.3}{\134indextitleentry}{subsection.16.15}% 406
+\BOOKMARK [3][-]{mimpl-indexsongsas.3}{\134indexsongsas}{subsection.16.15}% 407
+\BOOKMARK [3][-]{mimpl-authsepword.3}{\134authsepword}{subsection.16.15}% 408
+\BOOKMARK [3][-]{mimpl-authbyword.3}{\134authbyword}{subsection.16.15}% 409
+\BOOKMARK [3][-]{mimpl-authignoreword.3}{\134authignoreword}{subsection.16.15}% 410
+\BOOKMARK [3][-]{mimpl-titleprefixword.3}{\134titleprefixword}{subsection.16.15}% 411
+\BOOKMARK [3][-]{mimpl-showindex.3}{\134showindex}{subsection.16.15}% 412
+\BOOKMARK [2][-]{subsection.16.16}{Error Messages}{section.16}% 413
+\BOOKMARK [2][-]{subsection.16.17}{Option Processing}{section.16}% 414
+\BOOKMARK [2][-]{subsection.16.18}{Rawtext Mode}{section.16}% 415
+\BOOKMARK [2][-]{subsection.16.19}{Codeline Index}{section.16}% 416

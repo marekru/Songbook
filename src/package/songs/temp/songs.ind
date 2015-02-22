@@ -1,0 +1,1252 @@
+
+ \begin{theindex} 
+ \makeatletter\scan@allowedfalse
+{\bfseries\hfil Symbols\hfil}\nopagebreak
+
+  \item \verb*+\"+\pfill 2191, 3689
+  \item \verb*+\#+\pfill 2600, 3693
+  \item \verb*+\%+\pfill 3022, 3106
+  \item \verb*+\&+\pfill 3694
+  \item \verb*+\'+\pfill 2189, 3688
+  \item \verb*+\,+\pfill 1095
+  \item \verb*+\-+\pfill 2216
+  \item \verb*+\.+\pfill 2194, 2986, 2997, 3689
+  \item \verb*+\/+\pfill 1713, 1719, 2215, 2592
+  \item \verb*+\;+\pfill 1095
+  \item \verb*+\=+\pfill 2193, 3688
+  \item \verb*+\@centercr+\pfill 1218
+  \item \verb*+\@currentlabel+\pfill 806, 1261
+  \item \verb*+\@flushglue+\pfill 63, 66, 135, 150, 291, 538, 613, 
+		710, 711, 802, 835, 1613
+  \item \verb*+\@ifdefinable+\pfill 25--29
+  \item \verb*+\@ifnextchar+\pfill 782, 785, 2668, 2679, 3070, 3079
+  \item \verb*+\@ifstar+\pfill 710, 714, 717, 1237
+  \item \verb*+\@ixpt+\pfill 2611, 2612
+  \item \verb*+\@onlypreamble+\pfill 2974, 2976, 2978, 3111--3114
+  \item \verb*+\@par+\pfill 1187
+  \item \verb*+\@sanitize+\pfill 1517
+  \item \verb*+\@seccntformat+\pfill 2902, 2903, 2906, 2910, 2911, 2914
+  \item \verb*+\@sptoken+\pfill 1006, 1017, 1061, 1823, 2306, 2522
+  \item \verb*+\@startsection+\pfill 2904, 2912
+  \item \verb*+\@viiipt+\pfill 2610, 2611
+  \item \verb*+\@viipt+\pfill 2609, 2610, 2738
+  \item \verb*+\@vipt+\pfill 2608, 2609, 2759
+  \item \verb*+\@vpt+\pfill 2607
+  \item \verb*+\@xiipt+\pfill 2614, 2615, 2755
+  \item \verb*+\@xipt+\pfill 2613, 2614
+  \item \verb*+\@xivpt+\pfill 2615, 2616
+  \item \verb*+\@xviipt+\pfill 2616, 2617
+  \item \verb*+\@xxpt+\pfill 2617, 2618
+  \item \verb*+\@xxvpt+\pfill 2618
+  \item \verb*+\[+\pfill 2228, 2271, 2481, 2482, 2489, 2490, 2630, 2637, 
+		2654, 3698
+  \item \verb*+\\+\pfill 721, 723, 805, 998, 1000, 1022, 1024, 1218, 
+		2086, 2664, 2676, 2987, 2998, 3138, 3259, 3299
+  \item \verb*+\^+\pfill 2190, 2222, 2227, 3681, 3682, 3688
+  \item \verb*+\`+\pfill 2188, 3688
+  \item \verb*+\~+\pfill 2192, 2985, 2996, 3689
+
+  \indexspace
+{\bfseries\hfil  \hfil}\nopagebreak
+
+  \item \verb*+\ +\pfill 78, 123, 2353
+
+  \indexspace
+{\bfseries\hfil A\hfil}\nopagebreak
+
+  \item \verb*+\AA+\pfill 2207
+  \item \verb*+\aa+\pfill 2206
+  \item \verb*+\Acolon+\pfill \main{1644}
+  \item \verb*+\active+\pfill 1079, 1082, 1089, 1675, 1676, 2061, 2222, 
+		2225, 2227, 2643--2646, 2652, 2653, 2985
+  \item \verb*+\AE+\pfill 2205
+  \item \verb*+\ae+\pfill 2204
+  \item \verb*+\afterpreludeskip+\pfill \main{89}, 850
+  \item \verb*+\alphascale+\pfill \main{1766}
+  \item \verb*+\arabic+\pfill 73, 76
+  \item \verb*+\AtBeginDocument+\pfill 293
+  \item \verb*+\AtEndDocument+\pfill 3029
+  \item \verb*+\authbyword+\pfill \main{3086}
+  \item \verb*+\authignoreword+\pfill \main{3086}
+  \item \verb*+\authsepword+\pfill \main{3086}
+
+  \indexspace
+{\bfseries\hfil B\hfil}\nopagebreak
+
+  \item \verb*+\b+\pfill 2201
+  \item \verb*+\badness+\pfill 1420, 1426, 1432, 3196
+  \item \verb*+\baselineadj+\pfill \main{93}, 893
+  \item \verb*+\baselineskip+\pfill 61, 96, 97, 881, 884, 885, 888, 891, 
+		893, 980, 1268, 1274, 1357, 1616, 1617, 1994, 2029, 
+		2036, 2044, 3213
+  \item \verb*+\Bcolon+\pfill \main{1644}
+  \item \verb*+\beforepostludeskip+\pfill \main{89}, 699, 857
+  \item \verb*+\beginchorus+\pfill \main{1324}, 3469, 3506, 3528, 3535, 
+		3537, 3541, 3543, 3554, 3556, 3597, 3619, 3733
+  \item \verb*+\beginscripture+\pfill \main{1605}, 1649, 1661, 1667, 
+		3583, 3585, 3590, 3738
+  \item \verb*+\beginsong+\pfill \main{773}, 1245, 1330, 3448, 3454, 
+		3481, 3483, 3499, 3519, 3542, 3562
+  \item \verb*+\beginverse+\pfill \main{1228}, 3463, 3486, 3492, 3498, 
+		3500, 3511, 3513, 3531, 3549, 3596, 3618, 3722
+  \item \verb*+\bfseries+\pfill 77, 124, 128, 130, 984, 2907, 2915
+  \item \verb*+\break+\pfill 369, 398, 405, 412, 623, 624, 3326
+  \item \verb*+\brk+\pfill \main{1439}, 3744
+  \item \verb*+\brkpenalty+\pfill \main{113}, 1446, 1454, 1459, 1464
+
+  \indexspace
+{\bfseries\hfil C\hfil}\nopagebreak
+
+  \item \verb*+\c+\pfill 2199
+  \item \verb*+\c@page+\pfill 438, 451, 537, 628
+  \item \verb*+\c@section+\pfill 845, 3039
+  \item \verb*+\capo+\pfill \main{1779}
+  \item \verb*+\catcode+\pfill 1079, 1082, 1089, 1675, 1676, 2061, 2062, 
+		2222, 2225--2227, 2369, 2643--2646, 2652, 2653, 2804, 
+		2985, 2986, 3022, 3106, 3681, 3682, 3684, 3685, 
+		3695--3697
+  \item \verb*+\cbarwidth+\pfill \main{108}, 151, 1196, 1393, 1394, 
+		1399, 1408, 1444
+  \item \verb*+\ccpenalty+\pfill \main{113}, 288, 1148
+  \item \verb*+\centering+\pfill 161, 928, 947, 2907, 2915
+  \item \verb*+\ch+\pfill 2273, 2349, \main{2626}
+  \item \verb*+\chapter+\pfill 3239, 3240
+  \item \verb*+\CheckCommand+\pfill 1217
+  \item {\ttfamily chorded} (option)\pfill \main{181}
+  \item \verb*+\chordedfalse+\pfill 203, 1503
+  \item \verb*+\chordedtrue+\pfill 189, 1503
+  \item \verb*+\chordlocals+\pfill \main{86}, 2229
+  \item \verb*+\chordsoff+\pfill \main{181}
+  \item \verb*+\chordson+\pfill \main{181}, 3441
+  \item {\ttfamily chorus} (environment)\pfill \main{1324}
+  \item \verb*+\chorusfont+\pfill \main{47}, 142, 1362
+  \item \verb*+\chorusjustify+\pfill \main{58}, 144, 1362
+  \item \verb*+\chorusmark+\pfill \main{119}, 1337, 1343
+  \item \verb*+\clearpage+\pfill 625, 627, 2932, 3292
+  \item \verb*+\clineparams+\pfill \main{95}, 2555
+  \item \verb*+\closeout+\pfill 3017, 3024
+  \item \verb*+\colbotglue+\pfill \main{132}, 150, 198, 212, 291, 430, 
+		614, 1157, 1166, 1468
+  \item \verb*+\colorbox+\pfill 3667
+  \item \verb*+\columnsep+\pfill 254, 256, 345, 3234, 3235, 3308
+  \item \verb*+\commitsongs+\pfill \main{609}, 2930
+  \item \verb*+\copyright+\pfill 3690
+  \item \verb*+\cvpenalty+\pfill \main{113}, 290, 1146
+
+  \indexspace
+{\bfseries\hfil D\hfil}\nopagebreak
+
+  \item \verb*+\d+\pfill 2200
+  \item \verb*+\DeclareFlatSize+\pfill \main{2604}
+  \item \verb*+\DeclareLyricChar+\pfill \main{2125}, 2188--2217
+  \item \verb*+\DeclareNoHyphen+\pfill \main{2125}, 2218
+  \item \verb*+\DeclareNonLyric+\pfill \main{2125}
+  \item \verb*+\DeclareOption+\pfill 138, 169--172, 175, 181, 182, 
+		215, 216, 241, 242, 245, 246
+  \item \verb*+\define@key+\pfill 764
+  \item \verb*+\definecolor+\pfill 3658
+  \item \verb*+\discretionary+\pfill 2217
+
+  \indexspace
+{\bfseries\hfil E\hfil}\nopagebreak
+
+  \item \verb*+\echo+\pfill \main{1516}, 3746
+  \item \verb*+\emergencystretch+\pfill 1618
+  \item \verb*+\endchorus+\pfill 821, 1243, 1295, 1328, 1333, 3468, 
+		3470, 3493, 3495, 3507, 3536, 3538, 3547, 3549, 3553, 
+		3555, 3559, 3561, 3598, 3620, 3733
+  \item \verb*+\endendverse+\pfill 3489
+  \item \verb*+\endgraf+\pfill 1193, 1656
+  \item \verb*+\endlinechar+\pfill 1522
+  \item \verb*+\endscripture+\pfill 1610, 3455, 3458, 3474, 3477, 3576, 
+		3578, 3582, 3584, 3591, 3738
+  \item \verb*+\endsong+\pfill 778, 1254, 1292, 1333, 1373, 3449, 3451, 
+		3461, 3467, 3473, 3476, 3480, 3482, 3565, 3568, 3579
+  \item \verb*+\endverse+\pfill 820, 1242, 1254, 1327, 1386, 3462, 3464, 
+		3487, 3504, 3507, 3510, 3512, 3516, 3518, 3529, 3532, 
+		3550, 3597, 3619, 3722
+  \item \verb*+\enskip+\pfill 1120, 1134
+  \item \verb*+\ensuremath+\pfill 2600
+  \item environments:\efill 
+ \subitem {\ttfamily chorus}\pfill \main{1324}
+    \subitem {\ttfamily idxblock}\pfill \main{3205}
+    \subitem {\ttfamily intersong}\pfill \main{1552}
+    \subitem {\ttfamily SB@lgidx}\pfill \main{3208}
+    \subitem {\ttfamily SB@smidx}\pfill \main{3208}
+    \subitem {\ttfamily scripture}\pfill \main{1605}
+    \subitem {\ttfamily song}\pfill \main{773}
+    \subitem {\ttfamily songgroup}\pfill \main{1541}
+    \subitem {\ttfamily songs}\pfill \main{2917}
+    \subitem {\ttfamily verse}\pfill \main{1228}
+    \subitem {\ttfamily verse*}\pfill \main{1228}
+  \item \verb*+\escapechar+\pfill 2118
+  \item \verb*+\eTeXversion+\pfill 2, 3
+  \item \verb*+\everychorus+\pfill \main{83}, 1350
+  \item \verb*+\everypar+\pfill 1278, 1360, 1502
+  \item \verb*+\everyverse+\pfill \main{83}, 1283
+  \item \verb*+\exhyphenpenalty+\pfill 2583, 3215
+  \item \verb*+\extendpostlude+\pfill \main{122}, 981
+  \item \verb*+\extendprelude+\pfill \main{122}, 928, 955
+
+  \indexspace
+{\bfseries\hfil F\hfil}\nopagebreak
+
+  \item \verb*+\f@baselineskip+\pfill 2622
+  \item \verb*+\f@size+\pfill 96, 880, 902, 1616, 2597, 2620, 2622, 
+		3213
+  \item \verb*+\finalhyphendemerits+\pfill 1638
+  \item \verb*+\flat+\pfill 2601
+  \item \verb*+\flatsymbol+\pfill \main{2600}, 2603
+  \item \verb*+\flt+\pfill 883, 904, 1860, 1909--1913, \main{2602}, 
+		2647
+  \item \verb*+\fontencoding+\pfill 1538, 2736, 2745, 2753
+  \item \verb*+\fontfamily+\pfill 1538, 2736, 2745, 2753
+  \item \verb*+\fontseries+\pfill 2737, 2746, 2754
+  \item \verb*+\fontshape+\pfill 2737, 2746, 2754
+  \item \verb*+\fontsize+\pfill 2621, 2712, 2738, 2747, 2755, 2759
+  \item \verb*+\foreachtitle+\pfill \main{743}, 813, 952, 3702
+
+  \indexspace
+{\bfseries\hfil G\hfil}\nopagebreak
+
+  \item \verb*+\gtab+\pfill \main{2800}, 2813, 3623
+  \item \verb*+\gtabtrans+\pfill 2814, \main{2818}
+
+  \indexspace
+{\bfseries\hfil H\hfil}\nopagebreak
+
+  \item \verb*+\H+\pfill 2197, 3689
+  \item \verb*+\hangafter+\pfill 164
+  \item \verb*+\hangindent+\pfill 164
+  \item \verb*+\hbadness+\pfill 3143, 3159, 3167
+  \item \verb*+\hfuzz+\pfill 3143, 3159, 3167
+  \item \verb*+\hphantom+\pfill 2482, 2630
+  \item \verb*+\hrule+\pfill 703, 840, 1561
+  \item \verb*+\hsize+\pfill 800, 832, 840, 852, 863, 920, 924, 927, 
+		945, 1477, 1479--1481, 1559, 1561, 1570, 2835, 
+		2843, 2844, 2846, 2851, 2853, 3128, 3131, 3156, 3187, 
+		3211, 3219, 3233, 3253, 3284, 3289, 3386, 3393
+  \item \verb*+\Huge+\pfill 45
+  \item \verb*+\huge+\pfill 141
+  \item \verb*+\hyperlink+\pfill 2946--2948
+  \item \verb*+\hypertarget+\pfill 2940--2942
+  \item \verb*+\hyphenchar+\pfill 2565
+  \item \verb*+\hyphenpenalty+\pfill 2584, 3215
+
+  \indexspace
+{\bfseries\hfil I\hfil}\nopagebreak
+
+  \item \verb*+\i+\pfill 2213
+  \item \verb*+\idxaltentry+\pfill \main{3206}, 3370, 3408, 3418, 3632
+  \item \verb*+\idxauthfont+\pfill \main{128}, 3415
+  \item \verb*+\idxbgcolor+\pfill \main{55}, 3357
+  \item {\ttfamily idxblock} (environment)\pfill \main{3205}
+  \item \verb*+\idxbook+\pfill \main{130}, 3393
+  \item \verb*+\idxcont+\pfill \main{131}, 3386
+  \item \verb*+\idxentry+\pfill \main{3206}, 3366, 3402, 3414
+  \item \verb*+\idxheadfont+\pfill \main{124}, 3358
+  \item \verb*+\idxheadwidth+\pfill \main{102}, 3355, 3358
+  \item \verb*+\idxlyricfont+\pfill \main{126}, 3371
+  \item \verb*+\idxrefsfont+\pfill \main{129}, 3368, 3372, 3404, 3416
+  \item \verb*+\idxscripfont+\pfill \main{127}, 3403
+  \item \verb*+\idxtitlefont+\pfill \main{125}, 3367
+  \item \verb*+\if@filesw+\pfill 2965
+  \item \verb*+\if@twoside+\pfill 451, 457, 462, 475, 537
+  \item \verb*+\ifchorded+\pfill 222, 233, 882, 903, 1268, 1274, 1355, 
+		1403, 1409, 1503, 1515, 2028, 2652, \main{3637}
+  \item \verb*+\IfFileExists+\pfill 5, 3246
+  \item \verb*+\iflyric+\pfill \main{3637}
+  \item \verb*+\ifmeasures+\pfill 194, 208, 2442, 2653, \main{3637}
+  \item \verb*+\ifnolyrics+\pfill 2550, \main{3637}
+  \item \verb*+\ifpagepreludes+\pfill 832, 839, 854, 870, 944, 947, 
+		\main{3637}
+  \item \verb*+\ifpartiallist+\pfill 593, 610, 711, 714, 717, 1468, 
+		\main{3637}
+  \item \verb*+\ifrawtext+\pfill 186, \main{3637}, 3677
+  \item \verb*+\ifrepchorus+\pfill 260, 325, 579, 824, 1247, 1338, 1353, 
+		1378, 1445, 1449, \main{3637}
+  \item \verb*+\ifSB@brokenword+\pfill \main{2051}, 2556, 2584
+  \item \verb*+\ifSB@chordedspec+\pfill 148, \main{179}
+  \item \verb*+\ifSB@chorustop+\pfill \main{1301}, 1403, 1409
+  \item \verb*+\ifSB@colorboxes+\pfill \main{3637}, 3656
+  \item \verb*+\ifSB@convertnotes+\pfill \main{1726}, 1786, 1793
+  \item \verb*+\ifSB@doEOL+\pfill 3680, 3683
+  \item \verb*+\ifSB@etex+\pfill \main{1}, 277, 1304, 1516
+  \item \verb*+\ifSB@firstchord+\pfill 2077, 2236, 2240
+  \item \verb*+\ifSB@gettabind+\pfill \main{2761}, 2836, 2845
+  \item \verb*+\ifSB@gotchorus+\pfill \main{1303}, 1339, 1378, 1449
+  \item \verb*+\ifSB@inchorus+\pfill 228, 239, \main{748}, 821, 1195, 
+		1243, 1295, 1328, 1369, 1393, 1443, 1495, 1509, 1960, 
+		2520
+  \item \verb*+\ifSB@insong+\pfill \main{748}, 775, 819, 1241, 1286, 
+		1326, 1368, 1440, 1553, 1580, 1584, 1602
+  \item \verb*+\ifSB@intersong+\pfill \main{748}, 776, 875, 1554, 1565, 
+		1585, 1591, 1621, 1629, 1647, 1660, 1666
+  \item \verb*+\ifSB@inverse+\pfill 156, 227, 238, \main{748}, 820, 
+		1145, 1242, 1287, 1327, 1386, 1493, 1507, 1959, 2520
+  \item \verb*+\ifSB@measurespec+\pfill \main{179}, 193, 207
+  \item \verb*+\ifSB@needkey+\pfill \main{1770}, 1899
+  \item \verb*+\ifSB@nohat+\pfill 2085, \main{2706}
+  \item \verb*+\ifSB@omitscrip+\pfill 1573, 1593, \main{3637}
+  \item \verb*+\ifSB@pdf+\pfill \main{8}, 2937
+  \item \verb*+\ifSB@preamble+\pfill \main{16}, 148, 198, 212, 250
+  \item \verb*+\ifSB@prefshrps+\pfill \main{1769}, 1902
+  \item \verb*+\ifSB@prevverse+\pfill 825, 1146, 1148, \main{1216}, 
+		1249, 1339
+  \item \verb*+\ifSB@songsenv+\pfill 267, 748, 2918
+  \item \verb*+\ifSB@stanza+\pfill \main{1140}, 1143, 1497, 1511
+  \item \verb*+\ifSB@test+\pfill \main{18}, 365, 528, 2289, 2319, 2330, 
+		2371, 2392, 2468, 2530, 2551
+  \item \verb*+\ifSB@testii+\pfill \main{18}, 372
+  \item \verb*+\ifSB@trackch+\pfill 2068, 2085, 2657
+  \item \verb*+\ifSB@wordends+\pfill \main{2051}, 2536, 2579
+  \item \verb*+\ifsepindexes+\pfill 3247, 3279, 3292, \main{3637}
+  \item \verb*+\ifslides+\pfill 45, 887, 907, 919, \main{3637}
+  \item \verb*+\ifsongindexes+\pfill 3018, 3232, \main{3637}
+  \item \verb*+\iftranscapos+\pfill 1780, \main{3637}
+  \item \verb*+\ifvnumbered+\pfill 825, 1215, 1249, 1260, 1293
+  \item \verb*+\includeonlysongs+\pfill \main{265}, 3432, 3433
+  \item \verb*+\indexentry+\pfill 771, \main{3070}
+  \item \verb*+\indexesoff+\pfill 170, \main{172}
+  \item \verb*+\indexeson+\pfill \main{172}
+  \item \verb*+\indexsongsas+\pfill \main{3081}
+  \item \verb*+\indextitleentry+\pfill 772, \main{3078}
+  \item \verb*+\input+\pfill 3023, 3260, 3301
+  \item \verb*+\interlinepenalty+\pfill 112, 1191, 1192, 1194, 
+		1203, 1204, 3193
+  \item {\ttfamily intersong} (environment)\pfill \main{1552}
+  \item \verb*+\item+\pfill 1226
+  \item \verb*+\itemindent+\pfill 1221, 1222
+  \item \verb*+\itemsep+\pfill 1220
+
+  \indexspace
+{\bfseries\hfil J\hfil}\nopagebreak
+
+  \item \verb*+\j+\pfill 2214
+  \item \verb*+\jobname+\pfill 2968, 3023, 3679
+  \item \verb*+\justifycenter+\pfill 143, 145, \main{160}
+  \item \verb*+\justifyleft+\pfill 58, 59, \main{154}
+
+  \indexspace
+{\bfseries\hfil L\hfil}\nopagebreak
+
+  \item \verb*+\L+\pfill 2211
+  \item \verb*+\l+\pfill 2210
+  \item \verb*+\LARGE+\pfill 77, 124, 2907, 2915
+  \item \verb*+\Large+\pfill 45
+  \item \verb*+\large+\pfill 85
+  \item \verb*+\lastbox+\pfill 691, 694, 1632, 1964, 3147
+  \item \verb*+\lastcolglue+\pfill \main{134}, 531
+  \item \verb*+\lastpenalty+\pfill 411, 1492
+  \item \verb*+\lastskip+\pfill 1162, 1568, 1963, 2539
+  \item \verb*+\leaders+\pfill 1408, 3125, 3194
+  \item \verb*+\leftmargin+\pfill 1223, 1224
+  \item \verb*+\leftskip+\pfill 62, 66, 80, 155, 156, 161, 163, 801, 
+		834, 1394, 1395, 1475, 1480, 1614, 1633, 1654, 1670, 
+		3142, 3192
+  \item \verb*+\lineskip+\pfill 99, 948, 3214
+  \item \verb*+\lineskiplimit+\pfill 98, 3214
+  \item \verb*+\list+\pfill 1219
+  \item \verb*+\listparindent+\pfill 1222
+  \item \verb*+\lq+\pfill 1702, 1715
+  \item \verb*+\lrep+\pfill \main{2035}, 3748
+  \item {\ttfamily lyric} (option)\pfill \main{181}
+  \item \verb*+\lyricfalse+\pfill 189
+  \item \verb*+\lyricfont+\pfill \main{43}, 78, 141, 815, 901, 1176, 
+		2482
+  \item \verb*+\lyrictrue+\pfill 203, 3638
+
+  \indexspace
+{\bfseries\hfil M\hfil}\nopagebreak
+
+  \item \verb*+\m@th+\pfill 2593
+  \item \verb*+\makeatletter+\pfill 3022
+  \item \verb*+\makepostlude+\pfill 859, \main{979}
+  \item \verb*+\makeprelude+\pfill 848, \main{917}
+  \item \verb*+\mark+\pfill 335, 2001, 3397, 3406
+  \item \verb*+\marks+\pfill 697, 826, 1250, 1353, 1445
+  \item \verb*+\maxdepth+\pfill 309, 3221, 3267
+  \item \verb*+\mbar+\pfill \main{2022}, 2024, 2347, 3617, 3747
+  \item \verb*+\mch+\pfill 2274, 2351, \main{2632}
+  \item \verb*+\meaning+\pfill 2092, 2110, 2157, 2158, 2161, 2528
+  \item \verb*+\measurebar+\pfill \main{2023}, 2345, 2487--2490, 2634, 
+		2637, 2649
+  \item \verb*+\measuresfalse+\pfill 231
+  \item \verb*+\measuresoff+\pfill \main{215}
+  \item \verb*+\measureson+\pfill \main{215}
+  \item \verb*+\measurestrue+\pfill 220
+  \item \verb*+\memorize+\pfill 1258, \main{2667}, 3751
+  \item \verb*+\meter+\pfill 809, \main{1956}, 2020
+  \item \verb*+\minfrets+\pfill \main{136}, 2859
+  \item \verb*+\MultiwordChords+\pfill \main{2253}
+  \item \verb*+\musicnote+\pfill \main{1515}, 1780, 3739
+
+  \indexspace
+{\bfseries\hfil N\hfil}\nopagebreak
+
+  \item \verb*+\newauthorindex+\pfill \main{2977}
+  \item \verb*+\newbox+\pfill 27
+  \item \verb*+\newchords+\pfill \main{2661}, 3607, 3611
+  \item \verb*+\newcount+\pfill 25
+  \item \verb*+\newcounter+\pfill 69, 70, 2935
+  \item \verb*+\newdimen+\pfill 26
+  \item \verb*+\newenvironment+\pfill 773, 1231, 1324, 1541, 1552, 1583, 
+		1605, 2917, 3205, 3208, 3209
+  \item \verb*+\newif+\pfill 1, 8, 16, 18, 19, 179, 180, 748--752, 1140, 
+		1215, 1216, 1301, 1303, 1726, 1769, 1770, 2051, 2052, 
+		2236, 2657, 2706, 2761, 3637--3650, 3680
+  \item \verb*+\newindex+\pfill \main{2973}, 3629
+  \item \verb*+\newlength+\pfill 40, 87, 89, 91, 93, 102, 104, 106, 108, 
+		110, 2709
+  \item \verb*+\newmark+\pfill 1310, 1311
+  \item \verb*+\newmarks+\pfill 1314, 1315
+  \item \verb*+\newpage+\pfill 628
+  \item \verb*+\newscripindex+\pfill \main{2975}
+  \item \verb*+\newsongkey+\pfill \main{760}, 766, 768--772
+  \item \verb*+\newtoks+\pfill 28
+  \item \verb*+\newwrite+\pfill 29
+  \item \verb*+\nextcol+\pfill \main{709}
+  \item \verb*+\nexttitle+\pfill 733, \main{735}, 745, 812, 951, 3701
+  \item \verb*+\nobreakspace+\pfill 2235
+  \item {\ttfamily noindexes} (option)\pfill \main{172}
+  \item \verb*+\nolyrics+\pfill \main{3651}, 3750
+  \item \verb*+\nolyricstrue+\pfill 3652
+  \item {\ttfamily nomeasures} (option)\pfill \main{215}
+  \item \verb*+\nonfrenchspacing+\pfill 1095
+  \item {\ttfamily nopdfindex} (option)\pfill \main{175}
+  \item \verb*+\norepchoruses+\pfill \main{277}
+  \item \verb*+\normalfont+\pfill 43, 129, 141, 2829
+  \item \verb*+\normalsize+\pfill 43, 129, 2829
+  \item {\ttfamily noscripture} (option)\pfill \main{242}
+  \item {\ttfamily noshading} (option)\pfill \main{171}
+  \item \verb*+\nosongnumbers+\pfill \main{272}
+  \item \verb*+\notebgcolor+\pfill \main{55}, 1504
+  \item \verb*+\notefont+\pfill \main{47}, 1472
+  \item \verb*+\notejustify+\pfill \main{60}, 1482
+  \item \verb*+\notenameA+\pfill \main{1727}, 1742, 1884
+  \item \verb*+\notenameB+\pfill \main{1727}, 1743, 1885
+  \item \verb*+\notenameC+\pfill \main{1727}, 1744, 1886
+  \item \verb*+\notenameD+\pfill \main{1727}, 1745, 1887
+  \item \verb*+\notenameE+\pfill \main{1727}, 1746, 1888
+  \item \verb*+\notenameF+\pfill \main{1727}, 1747, 1889
+  \item \verb*+\notenameG+\pfill \main{1727}, 1748, 1890
+  \item \verb*+\notenames+\pfill \main{1761}, 1766, 1767
+  \item \verb*+\notenamesin+\pfill \main{1741}, 1762
+  \item \verb*+\notenamesout+\pfill \main{1751}, 1763
+  \item \verb*+\notrans+\pfill \main{1804}
+  \item \verb*+\noversenumbers+\pfill \main{273}
+
+  \indexspace
+{\bfseries\hfil O\hfil}\nopagebreak
+
+  \item \verb*+\o+\pfill 2208
+  \item \verb*+\obeylines+\pfill 1186, 1657, 3711
+  \item \verb*+\obeyspaces+\pfill 1085, 1089
+  \item \verb*+\OE+\pfill 2203
+  \item \verb*+\oe+\pfill 2202
+  \item \verb*+\onesongcolumn+\pfill 147, \main{245}
+  \item {\ttfamily onesongcolumn} (option)\pfill \main{245}
+  \item \verb*+\openout+\pfill 2968, 3020, 3679
+  \item options:\efill 
+ \subitem {\ttfamily chorded}\pfill \main{181}
+    \subitem {\ttfamily lyric}\pfill \main{181}
+    \subitem {\ttfamily noindexes}\pfill \main{172}
+    \subitem {\ttfamily nomeasures}\pfill \main{215}
+    \subitem {\ttfamily nopdfindex}\pfill \main{175}
+    \subitem {\ttfamily noscripture}\pfill \main{242}
+    \subitem {\ttfamily noshading}\pfill \main{171}
+    \subitem {\ttfamily onesongcolumn}\pfill \main{245}
+    \subitem {\ttfamily rawtext}\pfill \main{170}
+    \subitem {\ttfamily showmeasures}\pfill \main{215}
+    \subitem {\ttfamily slides}\pfill \main{138}
+    \subitem {\ttfamily transposecapos}\pfill \main{241}
+    \subitem {\ttfamily twosongcolumns}\pfill \main{245}
+    \subitem {\ttfamily unouter}\pfill \main{168}
+  \item \verb*+\outer+\pfill 168, 2097, 2102
+
+  \indexspace
+{\bfseries\hfil P\hfil}\nopagebreak
+
+  \item \verb*+\p@songnum+\pfill 806
+  \item \verb*+\p@versenum+\pfill 1261
+  \item \verb*+\PackageError+\pfill 3421
+  \item \verb*+\PackageWarning+\pfill 3422
+  \item \verb*+\pagepreludes+\pfill \main{3651}
+  \item \verb*+\pagepreludestrue+\pfill 3653
+  \item \verb*+\pagetotal+\pfill 358, 423, 2924, 3321
+  \item \verb*+\parfillskip+\pfill 63, 802, 835, 1613, 1638, 3212
+  \item \verb*+\parindent+\pfill 63, 80, \main{101}, 155, 158, 163, 835, 
+		980, 1211, 1213, 1612, 1655, 3212
+  \item \verb*+\parskip+\pfill 802, 835, 927, 954, 980, 1613, 3212
+  \item \verb*+\partiallisttrue+\pfill 268
+  \item \verb*+\pdfbookmark+\pfill 2937--2939
+  \item \verb*+\pdfoutput+\pfill 9--11
+  \item \verb*+\placenote+\pfill \main{65}, 145, 1504
+  \item \verb*+\placeversenum+\pfill \main{79}, 162, 1269
+  \item \verb*+\preferflats+\pfill \main{1782}
+  \item \verb*+\prefersharps+\pfill \main{1782}
+  \item \verb*+\printchord+\pfill \main{85}, 883, 904, 2076, 2831
+  \item \verb*+\printnoteA+\pfill \main{1734}, 1752, 1903, 1909, 1913
+  \item \verb*+\printnoteB+\pfill \main{1734}, 1753, 1904, 1909, 1910
+  \item \verb*+\printnoteC+\pfill \main{1734}, 1754, 1904, 1910
+  \item \verb*+\printnoteD+\pfill \main{1734}, 1755, 1905, 1910, 1911
+  \item \verb*+\printnoteE+\pfill \main{1734}, 1756, 1905, 1911
+  \item \verb*+\printnoteF+\pfill \main{1734}, 1757, 1906, 1912
+  \item \verb*+\printnoteG+\pfill \main{1734}, 1758, 1906, 1907, 1912
+  \item \verb*+\printscrcite+\pfill \main{54}, 1609
+  \item \verb*+\printsongnum+\pfill \main{77}, 105, 936, 967
+  \item \verb*+\printversenum+\pfill \main{78}, 107, 274, 1263
+  \item \verb*+\ProcessOptions+\pfill 3655
+  \item \verb*+\protected@edef+\pfill 806, 1261, 3032
+  \item \verb*+\protected@write+\pfill 2981
+
+  \indexspace
+{\bfseries\hfil R\hfil}\nopagebreak
+
+  \item \verb*+\raggedright+\pfill 1212
+  \item {\ttfamily rawtext} (option)\pfill \main{170}
+  \item \verb*+\rawtexttrue+\pfill 170
+  \item \verb*+\rep+\pfill \main{1536}, 3745
+  \item \verb*+\repchoruses+\pfill \main{277}, 3444, 3522
+  \item \verb*+\repchorusfalse+\pfill 285, 645
+  \item \verb*+\repchorustrue+\pfill 280, 647
+  \item \verb*+\replay+\pfill 1258, 1348, \main{2679}, 3752
+  \item \verb*+\RequirePackage+\pfill 5, 42, 3657
+  \item \verb*+\resettitles+\pfill \main{731}, 810, 814, 844, 918, 3699
+  \item \verb*+\rightmargin+\pfill 1223
+  \item \verb*+\rightskip+\pfill 62, 66, 161, 801, 834, 1476, 1481, 
+		1614, 1653, 3146, 3192
+  \item \verb*+\rmfamily+\pfill 126
+  \item \verb*+\rq+\pfill 1709, 1721
+  \item \verb*+\rrep+\pfill \main{2043}, 3749
+
+  \indexspace
+{\bfseries\hfil S\hfil}\nopagebreak
+
+  \item \verb*+\SB@@@beginsong+\pfill 785, 793, \main{795}, 3686
+  \item \verb*+\SB@@@ch+\pfill \main{2626}
+  \item \verb*+\SB@@@gtab+\pfill 2810, 2813, \main{2819}
+  \item \verb*+\SB@@@mch+\pfill \main{2632}
+  \item \verb*+\SB@@@pthead+\pfill \main{1004}
+  \item \verb*+\SB@@beginchorus+\pfill 1349, \main{1352}, 1461
+  \item \verb*+\SB@@beginsong+\pfill \main{773}
+  \item \verb*+\SB@@bskvfmt+\pfill \main{773}
+  \item \verb*+\SB@@ch+\pfill \main{2626}
+  \item \verb*+\SB@@chmacro+\pfill 2338, \main{2340}
+  \item \verb*+\SB@@chord+\pfill 2220, \main{2237}
+  \item \verb*+\SB@@csify+\pfill \main{2766}
+  \item \verb*+\SB@@echo+\pfill \main{1516}
+  \item \verb*+\SB@@gtab+\pfill 2805, \main{2807}
+  \item \verb*+\SB@@idxcmd+\pfill \main{3086}
+  \item \verb*+\SB@@idxentry+\pfill \main{3070}, 3079
+  \item \verb*+\SB@@lop+\pfill \main{719}
+  \item \verb*+\SB@@mch+\pfill \main{2632}
+  \item \verb*+\SB@@par+\pfill 1187, \main{1207}
+  \item \verb*+\SB@@prspace+\pfill \main{1084}
+  \item \verb*+\SB@@prstep+\pfill \main{1052}
+  \item \verb*+\SB@@pthead+\pfill \main{1004}
+  \item \verb*+\SB@@rechord+\pfill 191, \main{2693}
+  \item \verb*+\SB@@replay+\pfill \main{2679}
+  \item \verb*+\SB@@selectcol+\pfill \main{417}, 507, 510, 513
+  \item \verb*+\SB@@srcomma+\pfill \main{1097}
+  \item \verb*+\SB@@srcso+\pfill \main{1131}
+  \item \verb*+\SB@@srdash+\pfill \main{1103}
+  \item \verb*+\SB@@srhyphen+\pfill \main{1103}
+  \item \verb*+\SB@@srspace+\pfill \main{1111}
+  \item \verb*+\SB@@UTFtest+\pfill \main{2106}
+  \item \verb*+\SB@accidental+\pfill \main{2591}, 2602, 2603
+  \item \verb*+\SB@activehat+\pfill 2069, 2071, 2075, 2272, 2341, 
+		\main{2638}, 2650
+  \item \verb*+\SB@addDtest+\pfill 2132, 2134, 2136, \main{2155}
+  \item \verb*+\SB@addMtest+\pfill 2141, \main{2173}
+  \item \verb*+\SB@addNtest+\pfill 2130, 2139, \main{2164}
+  \item \verb*+\SB@addtoindex+\pfill \main{3031}, 3045, 3052
+  \item \verb*+\SB@addtoindexes+\pfill 811, \main{3043}, 3075
+  \item \verb*+\SB@addtotitles+\pfill 813, \main{3049}, 3077
+  \item \verb*+\SB@allindexes+\pfill \main{2954}, 2962, 2963, 3019, 
+		3088
+  \item \verb*+\SB@amp+\pfill 3685, 3694
+  \item \verb*+\SB@appendsp+\pfill \main{995}, 1038, 1824, 2437
+  \item \verb*+\SB@atopfret+\pfill \main{2718}, 2732, 2733, 2742, 2759
+  \item \verb*+\SB@balancerows+\pfill 3129, \main{3135}
+  \item \verb*+\SB@begincname+\pfill 2220, \main{2221}, 2628, 2635, 
+		2800
+  \item \verb*+\SB@beginverse+\pfill 1229, 1232, 1237, 1238, 
+		\main{1240}
+  \item \verb*+\SB@box+\pfill \main{30}, 307, 657, 658, 668, 669, 678, 
+		680, 691, 694, 700, 883, 884, 904, 905, 940, 960, 963, 
+		965, 971, 975, 984, 985, 988, 989, 1176--1178, 1181, 
+		1259, 1263--1266, 1269, 1290, 1354, 1374--1376, 1381, 
+		1384, 1419, 1431, 1452, 1453, 1457, 1458, 1472, 1473, 
+		1483, 1487, 1531, 1534, 1632, 1634, 1964--1966, 1968, 
+		1984, 1986, 1987, 1996, 1997, 2004, 2830, 2835, 2851, 
+		3123, 3128, 3131, 3137, 3147--3149, 3155, 3158, 3170, 
+		3180, 3218, 3222, 3223, 3226, 3248, 3268, 3269, 3296, 
+		3322, 3324, 3332, 3334
+  \item \verb*+\SB@boxii+\pfill \main{30}, 307, 308, 424, 426, 440, 934, 
+		942, 960, 961, 1968, 1970, 1971, 1985, 1986, 1989, 
+		1998, 1999, 2010, 2833, 2837, 2841, 2855, 3165, 3170, 
+		3181, 3268, 3270, 3322, 3328, 3332, 3338
+  \item \verb*+\SB@boxiii+\pfill \main{30}, 308, 433, 435, 445, 
+		490, 491, 2834, 2842, 2857, 2858, 3323, 3325, 3333, 
+		3337
+  \item \verb*+\SB@boxup+\pfill \main{1471}, 1504
+  \item \verb*+\SB@bracket+\pfill 190, 204, \main{2219}, 2654
+  \item \verb*+\SB@breakpoint+\pfill 381, 549, 1144, \main{1154}, 1446, 
+		1454, 1459, 1464
+  \item \verb*+\SB@brokenwordfalse+\pfill 2533, 2544
+  \item \verb*+\SB@brokenwordtrue+\pfill 2536, 2546
+  \item \verb*+\SB@bskvfmt+\pfill 782, 788, 790, 791
+  \item \verb*+\SB@bsoldfmt+\pfill \main{773}
+  \item \verb*+\SB@cbarshift+\pfill 66, 157, 161, \main{1392}
+  \item \verb*+\SB@ch+\pfill 192, 206, \main{2626}
+  \item \verb*+\SB@ch@off+\pfill 206, 236, \main{2626}
+  \item \verb*+\SB@ch@on+\pfill 192, 234, \main{2626}
+  \item \verb*+\SB@chbgroup+\pfill 2309, \main{2448}
+  \item \verb*+\SB@chbspace+\pfill 2415, 2416, \main{2419}
+  \item \verb*+\SB@chbstok+\pfill \main{2058}, 2426, 2506
+  \item \verb*+\SB@chdone+\pfill 2256, 2269, 2399, 2414, 2430, 2478, 
+		2483, 2491, \main{2493}
+  \item \verb*+\SB@chegroup+\pfill 2311, \main{2452}
+  \item \verb*+\SB@chegrpdone+\pfill \main{2452}
+  \item \verb*+\SB@chegrpmacro+\pfill \main{2452}
+  \item \verb*+\SB@chegrpname+\pfill \main{2452}
+  \item \verb*+\SB@chegrpouter+\pfill \main{2452}
+  \item \verb*+\SB@chegrpscan+\pfill \main{2452}
+  \item \verb*+\SB@chendspace+\pfill 2259, \main{2412}, 2429
+  \item \verb*+\SB@chespace+\pfill 2259, 2290, 2309, 2311, 2316, 2320, 
+		2325, 2350, 2352, 2360--2362, 2372, \main{2412}, 2429, 
+		2445
+  \item \verb*+\SB@chexpspace+\pfill 2258, 2307, \main{2408}, 2415, 
+		2427, 2433
+  \item \verb*+\SB@chgetname+\pfill 2333, \main{2336}
+  \item \verb*+\SB@chgetspace+\pfill \main{2419}
+  \item \verb*+\SB@chhyph+\pfill 2315, \main{2400}
+  \item \verb*+\SB@chimpspace+\pfill 2257, 2354, 2356, \main{2408}, 
+		2416, 2428, 2432
+  \item \verb*+\SB@chkidxlst+\pfill 2920, \main{3055}, 3074
+  \item \verb*+\SB@chlig+\pfill 2350, \main{2479}
+  \item \verb*+\SB@chlyrdone+\pfill 2256, 2414, \main{2493}
+  \item \verb*+\SB@chmacro+\pfill 2300, \main{2328}
+  \item \verb*+\SB@chmain+\pfill \main{2262}
+  \item \verb*+\SB@chmbar+\pfill 2346, 2348, \main{2441}
+  \item \verb*+\SB@chmstop+\pfill \main{2377}
+  \item \verb*+\SB@chmulti+\pfill \main{2377}
+  \item \verb*+\SB@chnorm+\pfill 2282, 2283, \main{2286}
+  \item \verb*+\SB@chnxtdone+\pfill 2257, 2258, \main{2267}, 2292, 2322, 
+		2331, 2342, 2344, 2374, 2405, 2409, 2411, 2432, 2433, 
+		2443
+  \item \verb*+\SB@chnxtrelax+\pfill \main{2267}, 2271--2274
+  \item \verb*+\SB@chnxtstep+\pfill \main{2267}, 2275--2277, 2290, 2316, 
+		2320, 2325, 2372, 2403, 2428, 2445
+  \item \verb*+\SB@chord+\pfill 190, \main{2220}, 2701
+  \item \verb*+\SB@chordbox+\pfill \main{2056}, 2065, 2066, 2246, 2425, 
+		2531, 2552, 2563, 2570
+  \item \verb*+\SB@chordedspectrue+\pfill 183, 184
+  \item \verb*+\SB@chordsoff+\pfill 148, \main{181}
+  \item \verb*+\SB@chordson+\pfill \main{181}, 3654
+  \item \verb*+\SB@chorusbar+\pfill 1375, \main{1398}, 1452, 1457
+  \item \verb*+\SB@chorusbox+\pfill 325, 579, 582, 590, 648, 682, 698, 
+		797, 824, 1247, \main{1302}, 1340, 1341, 1379, 1380, 
+		1450, 1451, 1555, 1586
+  \item \verb*+\SB@chorustopfalse+\pfill 1460
+  \item \verb*+\SB@chorustoptrue+\pfill 1334
+  \item \verb*+\SB@chother+\pfill 2302, \main{2305}
+  \item \verb*+\SB@chothermac+\pfill 2359, \main{2365}
+  \item \verb*+\SB@chscan+\pfill 2251, \main{2262}, 2379, 2394, 2439, 
+		2450
+  \item \verb*+\SB@chspcdone+\pfill 2430, \main{2493}
+  \item \verb*+\SB@chstart+\pfill 2250, \main{2270}
+  \item \verb*+\SB@chstep+\pfill 2268, \main{2377}
+  \item \verb*+\SB@chstepfour+\pfill 2362, \main{2377}
+  \item \verb*+\SB@chstepthree+\pfill 2361, \main{2377}
+  \item \verb*+\SB@chsteptwo+\pfill 2360, \main{2377}
+  \item \verb*+\SB@chtrymacro+\pfill 2295, \main{2298}
+  \item \verb*+\SB@clearbskeys+\pfill \main{760}, 781
+  \item \verb*+\SB@cleardpage+\pfill \main{535}, 616, 717
+  \item \verb*+\SB@clearlig+\pfill \main{2514}, 2553, 2568, 2576
+  \item \verb*+\SB@clearpage+\pfill 250, \main{521}, 536, 558, 615, 636, 
+		714
+  \item \verb*+\SB@closeall+\pfill \main{753}, 775, 776, 778, 875, 1254, 
+		1292, 1333, 1373, 1553, 1554, 1557, 1580, 1584, 1585, 
+		1588, 1602, 1610
+  \item \verb*+\SB@cmark+\pfill 662, 671, 1250, \main{1318}
+  \item \verb*+\SB@cmarkclass+\pfill 661, 670, 826, 1250, \main{1304}, 
+		1353, 1445
+  \item \verb*+\SB@cnt+\pfill \main{30}, 248, 249, 252, 392, 399, 401, 
+		406, 419, 428, 430, 449, 450, 452, 472, 473, 487--489, 
+		491, 492, 494, 495, 498, 529--531, 1191, 1194, 
+		1773--1776, 1858, 1861, 1864, 1867, 1877, 1883, 1892, 
+		1896--1898, 1903, 1909, 1922, 2114--2116, 2122, 2128, 
+		2359, 2368, 2369, 2567, 2573, 2586, 2768, 2774, 2799, 
+		2859, 2864, 2865, 2887, 2888, 2890, 2993, 2996, 2997, 
+		2999, 3000, 3169, 3196, 3305, 3306, 3309, 3317, 3339, 
+		3344, 3345, 3350
+  \item \verb*+\SB@cntii+\pfill \main{30}, 425, 426, 434, 435, 439, 440, 
+		444, 445, 448, 457, 460, 462, 469, 471, 477, 486, 2888, 
+		2890
+  \item \verb*+\SB@colbox+\pfill \main{301, 302}, 359, 361, 374, 
+		378, 379, 391, 393, 394, 524, 545
+  \item \verb*+\SB@colnum+\pfill \main{299}, 346, 359, 361, 364, 370, 
+		425, 450, 473, 486, 487, 494, 530
+  \item \verb*+\SB@colon+\pfill 1644, 1645, \main{1646}
+  \item \verb*+\SB@colorbox+\pfill 934, 965, 1504, 3357, \main{3656}
+  \item \verb*+\SB@colorboxesfalse+\pfill 171
+  \item \verb*+\SB@colorboxestrue+\pfill 3649
+  \item \verb*+\SB@colwidth+\pfill \main{137}, 254--258, 344, 703, 800, 
+		832, 852, 1559, 3211, 3233--3236
+  \item \verb*+\SB@computess+\pfill 1405, 1406, \main{1415}
+  \item \verb*+\SB@convertnotesfalse+\pfill 1764
+  \item \verb*+\SB@convertnotestrue+\pfill 1749, 1759
+  \item \verb*+\SB@cr@+\pfill 805, 1258, \main{2658}
+  \item \verb*+\SB@creg+\pfill 2086, \main{2660}, 2674, 2676, 2684, 
+		2686, 2691
+  \item \verb*+\SB@csify+\pfill \main{2766}, 2884, 2886, 2889, 2893, 
+		2897, 2898
+  \item \verb*+\SB@ctail+\pfill 2072, 2659, 2686, 2691, 2695, 2700
+  \item \verb*+\SB@ctoken+\pfill \main{2879}
+  \item \verb*+\SB@cwrite+\pfill \main{2979}, 3036--3038
+  \item \verb*+\SB@declare+\pfill \main{2125}
+  \item \verb*+\SB@dimen+\pfill \main{30}, 344--347, 349, 357--359, 378, 
+		380, 393, 396, 422, 423, 426, 491, 663, 665, 669, 
+		672, 673, 675, 880, 881, 888, 889, 891, 896, 897, 902, 
+		905, 908, 909, 911, 912, 942--945, 1174, 1177--1179, 
+		1400, 1402, 1404, 1418, 1419, 1423, 1427, 1429, 1431, 
+		1434, 1435, 1473--1477, 1987, 1989, 1991, 1992, 2002, 
+		2008, 2014, 2029, 2036--2038, 2040, 2044, 2045, 2047, 
+		2049, 2531, 2535, 2561--2564, 2594--2597, 2723--2725, 
+		2727, 2841--2844, 2847, 2857, 3120, 3140, 3141, 3145, 
+		3156, 3157, 3161, 3166, 3173, 3186, 3187, 3189, 3201, 
+		3203, 3222, 3320, 3321, 3330, 3335, 3378--3381, 3383
+  \item \verb*+\SB@dimenii+\pfill \main{30}, 664, 672, 678, 1401, 1403, 
+		1410, 1423, 1425, 1427, 1429, 1432, 1433, 1994--1999, 
+		2016, 2846--2849, 3155, 3188, 3189, 3191, 3194, 3318, 
+		3328--3330, 3339, 3381--3383
+  \item \verb*+\SB@dimeniii+\pfill \main{30}, 665, 667, 673, 675, 677, 
+		3161, 3162, 3166, 3171, 3173, 3174, 3177
+  \item \verb*+\SB@dimeniv+\pfill \main{30}, 3162, 3164, 3171, 3174, 
+		3177, 3179
+  \item \verb*+\SB@displayindex+\pfill \main{3231}, 3374, 3409, 3419
+  \item \verb*+\SB@doEOLfalse+\pfill 3710, 3732, 3737, 3743
+  \item \verb*+\SB@doEOLtrue+\pfill 3714, 3723, 3734, 3741
+  \item \verb*+\SB@dolq+\pfill \main{1674}
+  \item \verb*+\SB@donext+\pfill \main{991}, 1018, 1020, 1023, 1026, 
+		1028, 1030, 1062, 1064, 1066, 1068, 1070, 1072, 1074, 
+		1113, 1118, 1129, 1819, 1822, 1825, 1827, 1829, 1839, 
+		1848, 1852, 1856, 1859, 1862, 1865, 1868, 1870, 
+		2266--2269, 2309, 2311, 2333, 2338, 2350, 2352, 
+		2360--2362, 2427, 2698, 2701, 2704
+  \item \verb*+\SB@dorq+\pfill \main{1674}
+  \item \verb*+\SB@dothis+\pfill \main{991}, 1812, 1816, 1843, 1917, 
+		2250, 2266, 2282, 2315
+  \item \verb*+\SB@dotranspose+\pfill 1787, 1795, 1800, \main{1810}
+  \item \verb*+\SB@droppage+\pfill \main{353}, 421
+  \item \verb*+\SB@echo+\pfill \main{1516}
+  \item \verb*+\SB@ellipspread+\pfill \main{3118}, 3367, 3371, 3403, 
+		3415
+  \item \verb*+\SB@emitchord+\pfill 2502, 2507, \main{2519}
+  \item \verb*+\SB@emptylist+\pfill \main{719}
+  \item \verb*+\SB@endchorus+\pfill 1324, \main{1367}
+  \item \verb*+\SB@endcname+\pfill \main{2221}, 2239, 2629, 2636, 2802
+  \item \verb*+\SB@endparse+\pfill 1001, 1021, \main{1042}, 1048, 1067
+  \item \verb*+\SB@endscripture+\pfill 1605, \main{1620}
+  \item \verb*+\SB@endsong+\pfill 773, \main{818}, 3713
+  \item \verb*+\SB@endverse+\pfill 1230, 1233, \main{1285}
+  \item \verb*+\SB@envbox+\pfill \main{41}, 597, 836, 854, 1609, 1630, 
+		1637, 3237, 3251, 3282, 3288, 3312
+  \item \verb*+\SB@errbcc+\pfill 1328, \main{3534}
+  \item \verb*+\SB@errbct+\pfill 1330, \main{3540}
+  \item \verb*+\SB@errbcv+\pfill 1327, \main{3527}
+  \item \verb*+\SB@errboo+\pfill 775, \main{3447}
+  \item \verb*+\SB@errbor+\pfill 776, \main{3453}
+  \item \verb*+\SB@errbro+\pfill 1553, 1584, \main{3564}
+  \item \verb*+\SB@errbrr+\pfill 1554, 1585, \main{3570}
+  \item \verb*+\SB@errbvc+\pfill 1243, \main{3491}
+  \item \verb*+\SB@errbvt+\pfill 1245, \main{3497}
+  \item \verb*+\SB@errbvv+\pfill 1242, \main{3485}
+  \item \verb*+\SB@errchord+\pfill 2520, \main{3593}
+  \item \verb*+\SB@errdup+\pfill 2665, \main{3609}
+  \item \verb*+\SB@erreco+\pfill 1387, \main{3552}
+  \item \verb*+\SB@errect+\pfill 1389, \main{3558}
+  \item \verb*+\SB@errecv+\pfill 1386, \main{3546}
+  \item \verb*+\SB@erreoc+\pfill 821, \main{3466}
+  \item \verb*+\SB@erreor+\pfill 875, \main{3472}
+  \item \verb*+\SB@erreot+\pfill 876, \main{3479}
+  \item \verb*+\SB@erreov+\pfill 820, \main{3460}
+  \item \verb*+\SB@errero+\pfill 1580, 1602, \main{3575}
+  \item \verb*+\SB@errert+\pfill 1580, 1602, \main{3581}
+  \item \verb*+\SB@erretex+\pfill 283, \main{3521}
+  \item \verb*+\SB@errevc+\pfill 1295, \main{3503}
+  \item \verb*+\SB@errevo+\pfill 1296, \main{3509}
+  \item \verb*+\SB@errevt+\pfill 1298, \main{3515}
+  \item \verb*+\SB@erridx+\pfill 3408, 3418, \main{3631}
+  \item \verb*+\SB@errmbar+\pfill 1960, \main{3614}
+  \item \verb*+\SB@errnoidx+\pfill 3059, 3083, 3342, \main{3627}
+  \item \verb*+\SB@errnse+\pfill 2918, \main{3427}
+  \item \verb*+\SB@Error+\pfill 1043, 1951, \main{3421}, 3424, 3428, 
+		3432, 3438, 3448, 3454, 3461, 3467, 3473, 3480, 3486, 
+		3492, 3498, 3504, 3510, 3516, 3522, 3528, 3535, 3541, 
+		3547, 3553, 3559, 3565, 3571, 3576, 3582, 3588, 3594, 
+		3601, 3606, 3610, 3615, 3623, 3628, 3632
+  \item \verb*+\SB@errpl+\pfill 267, \main{3431}
+  \item \verb*+\SB@errreg+\pfill 2672, 2682, \main{3605}
+  \item \verb*+\SB@errreplay+\pfill 2696, \main{3600}
+  \item \verb*+\SB@errrtopt+\pfill 187, \main{3437}
+  \item \verb*+\SB@errscrip+\pfill 1641, 1648, 1661, 1667, \main{3587}
+  \item \verb*+\SB@errspos+\pfill 516, \main{3423}
+  \item \verb*+\SB@errtab+\pfill \main{3622}
+  \item \verb*+\SB@etextrue+\pfill 4
+  \item \verb*+\SB@everypar+\pfill \main{1209}, 1262, 1270, 1273, 1275, 
+		1278, 1356, 1358, 1360
+  \item \verb*+\SB@finger+\pfill \main{2758}, 2869
+  \item \verb*+\SB@finloop+\pfill 617, 618, 630, 631, \main{638}
+  \item \verb*+\SB@firstchord+\pfill \main{2236}
+  \item \verb*+\SB@firstchordfalse+\pfill 2249
+  \item \verb*+\SB@firstchordtrue+\pfill 2236, 2281
+  \item \verb*+\SB@flatsize+\pfill 2601, \main{2619}
+  \item \verb*+\SB@fretbar+\pfill \main{2721}, 2863, 2866
+  \item \verb*+\SB@fretempty+\pfill \main{2750}, 2785
+  \item \verb*+\SB@frethit+\pfill \main{2750}, 2785
+  \item \verb*+\SB@fretnum+\pfill \main{2711}, 2833
+  \item \verb*+\SB@fretwidth+\pfill \main{2709}, 2715, 2716, 2719, 2724, 
+		2838
+  \item \verb*+\SB@gettabindfalse+\pfill 2084, 2761, 2877
+  \item \verb*+\SB@gettabindtrue+\pfill 2064
+  \item \verb*+\SB@gotchorusfalse+\pfill 798
+  \item \verb*+\SB@gotchorustrue+\pfill 1248
+  \item \verb*+\SB@groupcnt+\pfill \main{568}, 573, 586, 587, 617, 618, 
+		630, 631, 639, 652, 869, 1544
+  \item \verb*+\SB@grouplvl+\pfill 872, 1542, 1546, 1548, 1549, 
+		\main{1551}
+  \item \verb*+\SB@gtab+\pfill \main{2800}
+  \item \verb*+\SB@gtinc+\pfill \main{2779}, 2865
+  \item \verb*+\SB@gtinit+\pfill \main{2779}, 2861
+  \item \verb*+\SB@gtmax+\pfill \main{2799}, 2860
+  \item \verb*+\SB@gtset+\pfill \main{2779}, 2860, 2869
+  \item \verb*+\SB@gttop+\pfill \main{2779}, 2834
+  \item \verb*+\SB@hash+\pfill 3684, 3693
+  \item \verb*+\SB@idxcmd+\pfill \main{3086}
+  \item \verb*+\SB@idxcolhead+\pfill \main{3376}, 3392, 3405
+  \item \verb*+\SB@idxcont+\pfill \main{3385}, 3406
+  \item \verb*+\SB@idxentry+\pfill \main{3070}, 3079
+  \item \verb*+\SB@idxheadsep+\pfill \main{3377}, 3388, 3395
+  \item \verb*+\SB@idxitemsep+\pfill \main{3199}, 3259, 3299
+  \item \verb*+\SB@idxlineskip+\pfill \main{3115}
+  \item \verb*+\SB@idxsetup+\pfill \main{3210}, 3224, 3256, 3300
+  \item \verb*+\SB@ifempty+\pfill \main{719}, 736, 1258, 2695
+  \item \verb*+\SB@ilpenalty+\pfill 1196, 1198, \main{1202}
+  \item \verb*+\SB@inchorusfalse+\pfill 752, 1372
+  \item \verb*+\SB@inchorustrue+\pfill 1332
+  \item \verb*+\SB@indexlist+\pfill 2919, 2931, \main{2953}, 3044, 3050, 
+		3056, 3057, 3060, 3064, 3066, 3073
+  \item \verb*+\SB@insertchorus+\pfill 326, \main{655}
+  \item \verb*+\SB@insongfalse+\pfill 749, 867, 3718
+  \item \verb*+\SB@insongtrue+\pfill 777
+  \item \verb*+\SB@intersongfalse+\pfill 750, 1578, 1600
+  \item \verb*+\SB@intersongtrue+\pfill 1556, 1587
+  \item \verb*+\SB@inversefalse+\pfill 681, 696, 751, 1291
+  \item \verb*+\SB@inversetrue+\pfill 683, 1253
+  \item \verb*+\SB@iwrite+\pfill 2970, 2981, \main{3008}, 3098
+  \item \verb*+\SB@keepactive+\pfill 2981, \main{2984}
+  \item \verb*+\SB@lastcmark+\pfill 686, 826, \main{1318}
+  \item \verb*+\SB@ldqleft+\pfill \main{1674}
+  \item \verb*+\SB@ldqright+\pfill \main{1674}
+  \item \verb*+\SB@lettertests+\pfill 2134, \main{2151}, 2288
+  \item {\ttfamily SB@lgidx} (environment)\pfill \main{3208}
+  \item \verb*+\SB@lgindex+\pfill 3272, 3275, \main{3295}
+  \item \verb*+\SB@ligfull+\pfill 2482, 2490, \main{2511}, 2517, 2553, 
+		2576
+  \item \verb*+\SB@ligpost+\pfill 2481, 2489, \main{2511}, 2516, 2568
+  \item \verb*+\SB@ligpre+\pfill 2480, \main{2511}, 2515, 2559
+  \item \verb*+\SB@loadactives+\pfill 227, 228, 238, 239, 1236, 1280, 
+		1363, \main{2641}
+  \item \verb*+\SB@lop+\pfill \main{719}, 739, 2072, 2700, 3139
+  \item \verb*+\SB@lyric+\pfill \main{2053}, 2243, 2279, 2280, 2314, 
+		2378, 2393, 2422, 2424, 2437, 2449, 2486, 2499, 2507
+  \item \verb*+\SB@lyricbox+\pfill \main{2056}, 2241, 2420, 2421, 2425, 
+		2494, 2495, 2534, 2535, 2550, 2557, 2558, 2561, 2565, 
+		2572, 2580
+  \item \verb*+\SB@lyricnohyp+\pfill \main{2055}, 2314, 2497
+  \item \verb*+\SB@macrotests+\pfill 2130, 2139, \main{2151}, 2370
+  \item \verb*+\SB@makeauthorindex+\pfill 3349, \main{3411}
+  \item \verb*+\SB@makeidxcolumn+\pfill \main{3217}, 3304, 3308
+  \item \verb*+\SB@makembar+\pfill 221, \main{1958}
+  \item \verb*+\SB@makescripindex+\pfill 3348, \main{3390}
+  \item \verb*+\SB@maketitleindex+\pfill 3347, \main{3354}
+  \item \verb*+\SB@maxmin+\pfill \main{304}, 2561, 3191, 3330, 3380, 
+		3382
+  \item \verb*+\SB@mbar+\pfill 221, 232, 2022
+  \item \verb*+\SB@mch+\pfill 223, 225, 234, 236, \main{2632}
+  \item \verb*+\SB@mch@m+\pfill 225, \main{2632}
+  \item \verb*+\SB@mch@on+\pfill 223, \main{2632}
+  \item \verb*+\SB@mchlig+\pfill 2352, \main{2479}
+  \item \verb*+\SB@measuremark+\pfill \main{1957}, 1974, 2001
+  \item \verb*+\SB@measuresoff+\pfill 194, 208, 210, \main{215}
+  \item \verb*+\SB@measureson+\pfill 194, 196, 208, \main{215}
+  \item \verb*+\SB@measurespectrue+\pfill 217, 218
+  \item \verb*+\SB@memorize+\pfill \main{2667}
+  \item \verb*+\SB@meterbot+\pfill \main{1954}, 1956, 2024
+  \item \verb*+\SB@metertop+\pfill \main{1954}, 1956, 2024
+  \item \verb*+\SB@migrate+\pfill \main{332}, 340, 341
+  \item \verb*+\SB@mkpage+\pfill \main{305}, 359, 426, 435, 440, 445, 
+		491
+  \item \verb*+\SB@mrkbox+\pfill \main{303}, 338, 339, 366
+  \item \verb*+\SB@multiline+\pfill 3159, 3167, 3182, \main{3184}
+  \item \verb*+\SB@multitests+\pfill 2141, \main{2151}, 2391
+  \item \verb*+\SB@nbsp+\pfill \main{2234}, 2355
+  \item \verb*+\SB@needkeyfalse+\pfill 1782, 1783, 1921
+  \item \verb*+\SB@needkeytrue+\pfill 1777, 1947
+  \item \verb*+\SB@newbox+\pfill \main{25}, 34--36, 41, 298, 301--303, 
+		574, 580, 1302, 2056, 2057, 3030
+  \item \verb*+\SB@newcount+\pfill \main{25}, 38, 39, 113--118, 136, 
+		299, 300, 568, 1551, 1725, 2054
+  \item \verb*+\SB@newdimen+\pfill \main{25}, 30--33, 137, 1208, 2762
+  \item \verb*+\SB@newindex+\pfill \main{2958}, 2973, 2975, 2977
+  \item \verb*+\SB@newtoks+\pfill \main{25}, 37, 728, 729, 2053, 2055, 
+		2658, 2659, 2663
+  \item \verb*+\SB@newwrite+\pfill \main{25}, 2967, 3678
+  \item \verb*+\SB@next+\pfill \main{991}, 1004, 1006, 1014, 1015, 1017, 
+		1019, 1021, 1024, 1040, 1052, 1054, 1061, 1063, 1065, 
+		1067, 1069, 1097, 1099, 1103, 1105, 1107, 1109, 1111, 
+		1114, 1117, 1138, 1695, 1696, 1699, 1706, 1816, 1818, 
+		1820, 1823, 1837, 1840, 1847, 1855, 1860, 1863, 1881, 
+		1926, 1932, 1941, 2092, 2126, 2127, 2157, 2158, 2161, 
+		2264, 2271--2277, 2287, 2299, 2306, 2308, 2310, 2312, 
+		2317, 2341, 2343, 2345, 2347, 2349, 2351, 2353, 2355, 
+		2358, 2389, 2399, 2401, 2426, 2440, 2455, 2457, 2460, 
+		2487, 2506, 2522--2526, 2528
+  \item \verb*+\SB@nextcol+\pfill \main{388}, 430, 531, 538, 613, 614, 
+		710, 711, 1468
+  \item \verb*+\SB@nextname+\pfill \main{994}, 2166, 2181, 2263, 2337, 
+		2368, 2390, 2438, 2453, 2475, 2488, 2505, 2528
+  \item \verb*+\SB@nocmark+\pfill 660, 697, \main{1318}
+  \item \verb*+\SB@nocmarkclass+\pfill 659, 697, \main{1304}
+  \item \verb*+\SB@nohatfalse+\pfill 2069
+  \item \verb*+\SB@nohattrue+\pfill 2064
+  \item \verb*+\SB@noreplay+\pfill 2088, 2482, 2630, 2702, \main{2707}
+  \item \verb*+\SB@numcols+\pfill 245, 246, 249, 252, 253, 255, 258, 
+		279, 295, \main{299}, 311, 321, 355, 364, 378, 390, 
+		448, 449, 452, 457, 460, 462, 469, 471, 472, 477, 489, 
+		529, 538, 543, 557, 611, 800, 831, 852, 1559, 2927
+  \item \verb*+\SB@numhyps+\pfill \main{2054}, 2244, 2313, 2402, 2496, 
+		2542, 2543, 2583
+  \item \verb*+\SB@obeylines+\pfill \main{1184}, 1281, 1364
+  \item \verb*+\SB@omitscripfalse+\pfill 243
+  \item \verb*+\SB@omitscriptrue+\pfill 242, 244
+  \item \verb*+\SB@oneidxpage+\pfill \main{3230}, 3311, 3323, 3333
+  \item \verb*+\SB@onfret+\pfill \main{2714}, 2750, 2751
+  \item \verb*+\SB@otesta+\pfill \main{2091}
+  \item \verb*+\SB@otestb+\pfill \main{2091}
+  \item \verb*+\SB@othertests+\pfill 2132, \main{2151}, 2318
+  \item \verb*+\SB@out+\pfill \main{2956}, 2966--2968, 2970, 2980, 2981, 
+		3012, 3016, 3017, 3020, 3024, 3087, 3097
+  \item \verb*+\SB@outer+\pfill \main{168}, 2227, 2228
+  \item \verb*+\SB@outertest+\pfill \main{2091}, 2329, 2467
+  \item \verb*+\SB@output+\pfill \main{354}, 409, 532, 546
+  \item \verb*+\SB@par+\pfill 1185, \main{1189}, 1207, 2343, 2524
+  \item \verb*+\SB@parindent+\pfill \main{1208}, 1211, 1213, 1612, 1614, 
+		1637, 1653--1655, 1670
+  \item \verb*+\SB@parsesrefs+\pfill 767, \main{1045}, 1608, 3721
+  \item \verb*+\SB@parsetitles+\pfill 779, \main{996}
+  \item \verb*+\SB@pdffalse+\pfill 8
+  \item \verb*+\SB@pdftrue+\pfill 12
+  \item \verb*+\SB@pgbox+\pfill 302, 343, 347, 348, 368, 523
+  \item \verb*+\SB@prcomma+\pfill 1066, \main{1078}
+  \item \verb*+\SB@prcpy+\pfill 1055, 1072, \main{1076}
+  \item \verb*+\SB@preamblefalse+\pfill 296
+  \item \verb*+\SB@preambletrue+\pfill 17
+  \item \verb*+\SB@prefshrpsfalse+\pfill 1783, 1924, 1927, 1933, 1937, 
+		1939, 1942, 1946
+  \item \verb*+\SB@prefshrpstrue+\pfill 1782, 1923, 1925, 1929, 1931, 
+		1935, 1938, 1940, 1944
+  \item \verb*+\SB@prevversefalse+\pfill 683, 1385
+  \item \verb*+\SB@prevversetrue+\pfill 681, 696, 808, 1294
+  \item \verb*+\SB@prgr+\pfill 1070, \main{1076}
+  \item \verb*+\SB@prhyphen+\pfill 1064, \main{1078}
+  \item \verb*+\SB@printEOL+\pfill 3683, 3692, 3716, 3742
+  \item \verb*+\SB@prloop+\pfill 1048, \main{1052}, 1076, 1077, 1080, 
+		1083, 1087
+  \item \verb*+\SB@prspace+\pfill 1062, \main{1084}
+  \item \verb*+\SB@prstep+\pfill \main{1052}
+  \item \verb*+\SB@ptbg+\pfill 1020, \main{1036}
+  \item \verb*+\SB@pthead+\pfill 1001, \main{1004}, 1026
+  \item \verb*+\SB@ptloop+\pfill \main{1015}, 1028, 1036, 1039
+  \item \verb*+\SB@ptmain+\pfill 1009, 1015, \main{1016}
+  \item \verb*+\SB@ptsp+\pfill 1018, \main{1037}
+  \item \verb*+\SB@ptstep+\pfill 1026, 1028, \main{1031}, 1036
+  \item \verb*+\SB@putbox+\pfill 682, \main{1172}, 1290, 1376
+  \item \verb*+\SB@putboxes+\pfill \main{377}, 424, 545
+  \item \verb*+\SB@quotesactive+\pfill 1674, 1688, 1694
+  \item \verb*+\SB@raggedright+\pfill 803, 947, 980, \main{1210}
+  \item \verb*+\SB@rawrefs+\pfill \main{754}, 766, 767, 811, 3706, 3707
+  \item \verb*+\SB@rdqleft+\pfill \main{1674}
+  \item \verb*+\SB@rdqright+\pfill \main{1674}
+  \item \verb*+\SB@rechord+\pfill 191, 205, 2639, \main{2693}
+  \item \verb*+\SB@repcolon+\pfill \main{2026}, 2041, 2046
+  \item \verb*+\SB@replay+\pfill \main{2679}
+  \item \verb*+\SB@scanlq+\pfill \main{1674}
+  \item \verb*+\SB@scanrq+\pfill \main{1674}
+  \item \verb*+\SB@scripdent+\pfill \main{1665}
+  \item \verb*+\SB@selectcol+\pfill \main{416}, 504, 507, 510, 513, 544
+  \item \verb*+\SB@setbaselineskip+\pfill 199, 213, 816, \main{879}, 
+		1503
+  \item \verb*+\SB@setchord+\pfill \main{2059}, 2248
+  \item \verb*+\SB@setkeysig+\pfill 1899, \main{1920}
+  \item \verb*+\SB@setversesep+\pfill 294, \main{895}
+  \item \verb*+\SB@sgroup+\pfill \main{566}, 570, 572, 573, 868, 872, 
+		1543, 1549, 2923
+  \item \verb*+\SB@skip+\pfill \main{30}, 822, 849, 856, 1157, 1158, 
+		1160, 1162, 1169, 1404--1406, 1408, 1410, 1412, 
+		1568, 1569, 1963, 1977, 1980, 2539, 2540
+  \item {\ttfamily SB@smidx} (environment)\pfill \main{3208}
+  \item \verb*+\SB@songbox+\pfill \main{298}, 386, 433, 490, 553, 559, 
+		562, 576, 589, 597, 642, 799, 853, 855, 1558, 1574, 
+		1589, 1594
+  \item \verb*+\SB@songlistbrk+\pfill \main{601}, 614, 624
+  \item \verb*+\SB@songlistcdp+\pfill \main{601}, 616, 626
+  \item \verb*+\SB@songlistcp+\pfill \main{601}, 615, 625
+  \item \verb*+\SB@songlistnc+\pfill \main{601}, 613, 623
+  \item \verb*+\SB@songsenvfalse+\pfill 748, 2933
+  \item \verb*+\SB@songsenvtrue+\pfill 2928
+  \item \verb*+\SB@songwrites+\pfill 780, 838, \main{3030}, 3034, 3035
+  \item \verb*+\SB@spbegnew+\pfill \main{432}, 461, 470
+  \item \verb*+\SB@spcinit+\pfill 2245, \main{2253}
+  \item \verb*+\SB@spdblpg+\pfill \main{447}, 465, 479
+  \item \verb*+\SB@spextnew+\pfill \main{443}, 463, 478
+  \item \verb*+\SB@spextold+\pfill \main{437}, 458, 476
+  \item \verb*+\SB@spos+\pfill 427, 505, 508, 511, 514, \main{519}
+  \item \verb*+\SB@sposi+\pfill \main{456}, 508
+  \item \verb*+\SB@sposii+\pfill \main{468}, 496, 511
+  \item \verb*+\SB@sposiii+\pfill \main{485}, 514
+  \item \verb*+\SB@sractives+\pfill 1047, \main{1088}
+  \item \verb*+\SB@srcomma+\pfill 1091, \main{1097}
+  \item \verb*+\SB@srcso+\pfill 1118, \main{1131}
+  \item \verb*+\SB@srdash+\pfill \main{1103}
+  \item \verb*+\SB@srhyphen+\pfill 1091, \main{1103}
+  \item \verb*+\SB@srspace+\pfill 1091, 1099, \main{1111}, 1133
+  \item \verb*+\SB@srspacing+\pfill 1092, \main{1094}
+  \item \verb*+\SB@stanzabreak+\pfill 681, 683, 696, \main{1141}, 1255, 
+		1336, 1342
+  \item \verb*+\SB@stanzafalse+\pfill 796
+  \item \verb*+\SB@stanzatrue+\pfill 1257, 1347
+  \item \verb*+\SB@star+\pfill 3726, 3727
+  \item \verb*+\SB@stypcol+\pfill 541, \main{542}, 1598
+  \item \verb*+\SB@stype+\pfill \main{541}, 578, 593, 1596, 1598
+  \item \verb*+\SB@styppage+\pfill \main{556}, 598, 1596
+  \item \verb*+\SB@submitenv+\pfill \main{595}, 870
+  \item \verb*+\SB@submitpart+\pfill \main{569}, 593
+  \item \verb*+\SB@submitsong+\pfill \main{592}, 871, 1576, 1597
+  \item \verb*+\SB@tabargs+\pfill 2823, \main{2879}
+  \item \verb*+\SB@tabindent+\pfill 2241, 2242, \main{2761}, 2837--2839, 
+		2849
+  \item \verb*+\SB@targfing+\pfill \main{2763}, 2822, 2870, 2889, 2897
+  \item \verb*+\SB@targfret+\pfill \main{2763}, 2820, 2833, 2892, 2896
+  \item \verb*+\SB@targsfing+\pfill 2867
+  \item \verb*+\SB@targstr+\pfill \main{2763}, 2821, 2824, 2825, 2834, 
+		2860, 2863, 2884, 2886, 2893, 2898
+  \item \verb*+\SB@temp+\pfill \main{18}, 307, 313, 334, 335, 350, 353, 
+		571, 572, 612--616, 622--626, 639, 659--662, 670, 671, 
+		686, 725, 726, 897, 899, 1087, 1131, 1133, 1842, 1874, 
+		1884--1890, 1894, 1900, 1915, 1973, 1974, 2103, 2104, 
+		2119--2121, 2174, 2182, 2185, 2553, 2568, 2576, 2589, 
+		2882, 2883, 2885, 2902, 2906, 2910, 2914, 2992, 
+		3003--3006, 3010, 3019, 3021, 3044--3046, 3050--3052, 
+		3056, 3058, 3088, 3089, 3098, 3121, 3124, 3144, 3190, 
+		3238, 3241, 3244, 3343, 3345, 3346, 3725, 3727
+  \item \verb*+\SB@tempii+\pfill \main{18}, 308, 312, 316, 573, 574, 
+		576, 578, 580, 582, 639, 641, 643, 644, 649, 651, 
+		898, 899, 3009, 3010, 3032, 3033, 3058, 3059, 3061, 
+		3064, 3095, 3096, 3136, 3195
+  \item \verb*+\SB@tempiii+\pfill \main{18}
+  \item \verb*+\SB@tempiv+\pfill \main{18}
+  \item \verb*+\SB@tempv+\pfill \main{18}, 1796, 1798, 1801
+  \item \verb*+\SB@testfalse+\pfill 360, 525, 2104, 2146, 2149, 2366, 
+		2521, 2549
+  \item \verb*+\SB@testiifalse+\pfill 362, 364
+  \item \verb*+\SB@testiitrue+\pfill 360
+  \item \verb*+\SB@testtrue+\pfill 362, 364, 522, 2104, 2144, 2149, 
+		2288, 2318, 2369, 2391, 2522--2526, 2550
+  \item \verb*+\SB@titlelist+\pfill \main{728}, 732, 998, 1022, 
+		1032, 1033
+  \item \verb*+\SB@titlesep+\pfill 1000, \main{1041}
+  \item \verb*+\SB@titletail+\pfill \main{728}, 732, 736, 739
+  \item \verb*+\SB@toks+\pfill \main{30}, 333--335, 739, 740, 999, 1025, 
+		1033, 1034, 1038, 1047, 1049, 1076, 1077, 1080, 1083, 
+		1086, 1788, 1796, 1801, 1811, 1821, 1824, 1832, 1845, 
+		1850, 1893, 1894, 1901, 1915, 2072, 2697, 2700, 2704, 
+		2767, 2770, 2775, 3011, 3012, 3061, 3063, 3066, 3122, 
+		3126, 3136, 3138--3140, 3304, 3307, 3311, 3405, 3406
+  \item \verb*+\SB@topempty+\pfill \main{2732}, 2780, 2869
+  \item \verb*+\SB@topO+\pfill \main{2732}, 2780
+  \item \verb*+\SB@topX+\pfill \main{2732}, 2780
+  \item \verb*+\SB@tracc+\pfill 1862, 1865, \main{1881}
+  \item \verb*+\SB@trackch+\pfill \main{2657}
+  \item \verb*+\SB@trackchfalse+\pfill 2683, 2690
+  \item \verb*+\SB@trackchtrue+\pfill 2673
+  \item \verb*+\SB@transposefactor+\pfill 804, \main{1725}, 1772, 1773, 
+		1776, 1785, 1794, 1806, 1857, 1896, 1899, 2809
+  \item \verb*+\SB@trend+\pfill 1813, 1847, \main{1950}
+  \item \verb*+\SB@trgroup+\pfill 1819, \main{1831}
+  \item \verb*+\SB@trmain+\pfill 1812, \main{1817}, 1917
+  \item \verb*+\SB@trnote+\pfill 1843, \main{1854}
+  \item \verb*+\SB@trnotestep+\pfill 1856, \main{1872}
+  \item \verb*+\SB@trscan+\pfill 1813, \main{1816}, 1833, 1836, 1839, 
+		1875, 1918
+  \item \verb*+\SB@trskip+\pfill 1822, 1825, 1835
+  \item \verb*+\SB@trspace+\pfill \main{1835}
+  \item \verb*+\SB@trstep+\pfill 1827, \main{1838}
+  \item \verb*+\SB@trtrans+\pfill 1859, 1868, 1878, 1881, \main{1882}
+  \item \verb*+\SB@txtout+\pfill 3678, 3679, 3700, 3702, 3704, 3707, 
+		3709, 3715, 3728, 3730, 3736, 3742
+  \item \verb*+\SB@U@four+\pfill \main{2106}
+  \item \verb*+\SB@U@three+\pfill \main{2106}
+  \item \verb*+\SB@U@two+\pfill \main{2106}
+  \item \verb*+\SB@uncombine+\pfill \main{3015}
+  \item \verb*+\SB@updatepage+\pfill 318, 323, \main{337}, 421
+  \item \verb*+\SB@UTFtest+\pfill \main{2106}, 2127, 2358
+  \item \verb*+\SB@Warn+\pfill \main{3421}, 3444
+  \item \verb*+\SB@warnrc+\pfill 260, 279, \main{3443}
+  \item \verb*+\SB@wordendsfalse+\pfill 2530
+  \item \verb*+\SB@wordendstrue+\pfill 2530
+  \item \verb*+\sbarheight+\pfill \main{110}, 152, 382, 383, 550, 551, 
+		690, 701, 703, 839, 840, 860, 863, 1560, 1561, 1566, 
+		1570
+  \item \verb*+\scantokens+\pfill 1523
+  \item \verb*+\scitehere+\pfill 1622, \main{1628}
+  \item \verb*+\scleardpage+\pfill \main{716}
+  \item \verb*+\sclearpage+\pfill \main{713}
+  \item \verb*+\scripindent+\pfill \main{1665}
+  \item \verb*+\scripoutdent+\pfill \main{1665}
+  \item {\ttfamily scripture} (environment)\pfill \main{1605}
+  \item \verb*+\scripturefont+\pfill \main{50}, 1615
+  \item \verb*+\scriptureoff+\pfill 146, \main{242}
+  \item \verb*+\scriptureon+\pfill \main{242}
+  \item \verb*+\selectfont+\pfill 1538, 2027, 2623, 2712, 2738, 2747, 
+		2755, 2759
+  \item \verb*+\sepindexestrue+\pfill 3647
+  \item \verb*+\sepverses+\pfill \main{286}
+  \item \verb*+\setkeys+\pfill 792
+  \item \verb*+\setlicense+\pfill \main{759}, 770
+  \item \verb*+\sfcode+\pfill 984, 1095, 3415
+  \item \verb*+\sffamily+\pfill 45, 54, 77, 85, 124, 125, 127, 
+		1984, 1985, 2712, 2759, 2907, 2915
+  \item \verb*+\sharpsymbol+\pfill \main{2600}, 2602
+  \item \verb*+\shiftdblquotes+\pfill 52, \main{1674}
+  \item \verb*+\showauthors+\pfill 122, \main{983}
+  \item \verb*+\showindex+\pfill \main{3341}
+  \item {\ttfamily showmeasures} (option)\pfill \main{215}
+  \item \verb*+\showrefs+\pfill 122, \main{987}
+  \item \verb*+\shrp+\pfill 883, 904, 1863, 1903--1907, \main{2602}, 
+		2648
+  \item \verb*+\slides+\pfill \main{138}
+  \item {\ttfamily slides} (option)\pfill \main{138}
+  \item \verb*+\slidestrue+\pfill 140
+  \item \verb*+\slshape+\pfill 45, 85, 125, 127, 142, 988, 1521, 1529
+  \item \verb*+\small+\pfill 54, 127, 128, 130, 131, 928
+  \item \verb*+\snumbgcolor+\pfill \main{55}, 934, 965
+  \item \verb*+\solfedge+\pfill \main{1766}
+  \item {\ttfamily song} (environment)\pfill \main{773}
+  \item \verb*+\songauthors+\pfill \main{754}, 768, 811, 984, 
+		3703, 3704
+  \item \verb*+\songchapter+\pfill \main{2901}, 3241
+  \item \verb*+\songcolumns+\pfill \main{245}, 295, 2927
+  \item \verb*+\songcopyright+\pfill 123, \main{754}, 769, 3715
+  \item {\ttfamily songgroup} (environment)\pfill \main{1541}
+  \item \verb*+\songindexesfalse+\pfill 174
+  \item \verb*+\songindexestrue+\pfill 173, 3646
+  \item \verb*+\songlicense+\pfill 123, \main{754}, 759, 3716
+  \item \verb*+\songlink+\pfill 177, \main{2945}
+  \item \verb*+\songlist+\pfill \main{265}, 571, 612, 622
+  \item \verb*+\songmark+\pfill \main{119}, 837
+  \item \verb*+\songnumstyle+\pfill \main{71}
+  \item \verb*+\songnumwidth+\pfill \main{104}, 272, 933, 935, 941, 958, 
+		966
+  \item \verb*+\songpos+\pfill \main{502}, 520, 3424, 3425, 3653
+  \item \verb*+\songrefs+\pfill \main{758}, 766, 988, 1049, 1609, 3721
+  \item {\ttfamily songs} (environment)\pfill \main{2917}
+  \item \verb*+\songsection+\pfill \main{2909}, 3238
+  \item \verb*+\songtarget+\pfill 176, 845, \main{2936}
+  \item \verb*+\songtitle+\pfill \main{730}, 737, 740, 744, 745, 811, 
+		813, 921, 950, 952, 2939, 3700, 3702
+  \item \verb*+\spacefactor+\pfill 1115, 1116, 2573, 2586
+  \item \verb*+\spenalty+\pfill \main{118}, 149, 381, 549
+  \item \verb*+\splitbotmark+\pfill 341, 3225
+  \item \verb*+\splitfirstmark+\pfill 340, 1973
+  \item \verb*+\splitfirstmarks+\pfill 659, 661, 670
+  \item \verb*+\splitmaxdepth+\pfill 309, 3221, 3267
+  \item \verb*+\splittopskip+\pfill 309, 3221, 3267
+  \item \verb*+\ss+\pfill 2212
+  \item \verb*+\stitlefont+\pfill \main{44}, 921, 949
+  \item \verb*+\strophe+\pfill \main{1659}
+
+  \indexspace
+{\bfseries\hfil T\hfil}\nopagebreak
+
+  \item \verb*+\t+\pfill 2198, 3689
+  \item \verb*+\textbf+\pfill 131
+  \item \verb*+\textheight+\pfill 198, 357, 422, 435, 440, 445, 3268, 
+		3280, 3320
+  \item \verb*+\textnote+\pfill \main{1490}, 1515, 3724, 3735, 3740
+  \item \verb*+\textwidth+\pfill 257, 832
+  \item \verb*+\theSB@songsnum+\pfill 846, 3038
+  \item \verb*+\thesongnum+\pfill \main{71}, 806, 846, 868, 936, 967, 
+		1543, 2939, 2961, 3038, 3450, 3457, 3463, 3469, 3475, 
+		3481, 3488, 3494, 3500, 3505, 3511, 3517, 3530, 3537, 
+		3543, 3548, 3554, 3560, 3567, 3573, 3577, 3584, 3594, 
+		3602, 3615, 3700
+  \item \verb*+\theversenum+\pfill \main{74}, 1261, 1263
+  \item \verb*+\tiny+\pfill 954, 981, 1984, 1985
+  \item \verb*+\titleprefixword+\pfill \main{3086}
+  \item \verb*+\transcapostrue+\pfill 241
+  \item \verb*+\transpose+\pfill \main{1771}, 1780
+  \item {\ttfamily transposecapos} (option)\pfill \main{241}
+  \item \verb*+\transposehere+\pfill \main{1784}, 1807, 2079, 2818, 
+		2831
+  \item \verb*+\trchordformat+\pfill 1801, \main{1815}
+  \item \verb*+\twosongcolumns+\pfill \main{245}
+  \item {\ttfamily twosongcolumns} (option)\pfill \main{245}
+
+  \indexspace
+{\bfseries\hfil U\hfil}\nopagebreak
+
+  \item \verb*+\u+\pfill 2195, 3688
+  \item \verb*+\uccode+\pfill 1841, 1873, 2996, 2997
+  \item {\ttfamily unouter} (option)\pfill \main{168}
+  \item \verb*+\uppercase+\pfill 2998
+  \item \verb*+\upshape+\pfill 1521, 1529
+  \item \verb*+\usefont+\pfill 51, 2027
+  \item \verb*+\usepackage+\pfill 3439
+
+  \indexspace
+{\bfseries\hfil V\hfil}\nopagebreak
+
+  \item \verb*+\v+\pfill 2196, 3688
+  \item \verb*+\vbadness+\pfill 420, 656, 1417, 1969, 3266, 3317, 3339
+  \item \verb*+\vcpenalty+\pfill \main{113}, 289, 1148
+  \item \verb*+\verse+\pfill 1217
+  \item {\ttfamily verse} (environment)\pfill \main{1228}
+  \item {\ttfamily verse*} (environment)\pfill \main{1228}
+  \item \verb*+\versefont+\pfill \main{47}, 1279
+  \item \verb*+\versejustify+\pfill \main{58}, 143, 144, 1279
+  \item \verb*+\versemark+\pfill \main{119}, 1256
+  \item \verb*+\versenumstyle+\pfill \main{74}
+  \item \verb*+\versenumwidth+\pfill \main{106}, 156, 275, 1264, 1266
+  \item \verb*+\versesep+\pfill \main{87}, 699, 822, 898, 908, 911, 
+		1151, 1498, 1512
+  \item \verb*+\vfuzz+\pfill 420, 656, 1417, 1969, 3266, 3318, 3339
+  \item \verb*+\vnumbered+\pfill \main{1215}
+  \item \verb*+\vnumberedfalse+\pfill 1232, 1237, 1335
+  \item \verb*+\vnumberedtrue+\pfill 1229, 1238
+  \item \verb*+\vrule+\pfill 863, 1268, 1274, 1357, 1408, 1570, 2016, 
+		2038, 2040, 2047, 2049, 2715, 2727, 2743
+  \item \verb*+\vsize+\pfill 369
+  \item \verb*+\vsplit+\pfill 313, 658, 669, 678, 1971, 3222, 3268
+  \item \verb*+\vvpenalty+\pfill \main{113}, 287, 289, 290, 1146
+
+  \indexspace
+{\bfseries\hfil W\hfil}\nopagebreak
+
+  \item \verb*+\write+\pfill 2970, 3012, 3097, 3700, 3702, 3704, 3707, 
+		3709, 3715, 3728, 3730, 3736, 3742
+
+ \end{theindex}
